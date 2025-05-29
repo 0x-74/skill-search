@@ -1,0 +1,1880 @@
+Index: 5
+Stryker
+Share
+Show more options
+Senior Software Engineer 
+Gurugram, Haryana, India · Reposted 5 days ago · Over 100 people clicked apply
+Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save Senior Software Engineer  at Stryker
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+What you will do:
+
+Technical Responsibilities:
+
+ Conduct or design prototyping and bench testing
+ Conduct problem solving, identify potential solutions, and evaluate them against component and sub-system requirements
+ Conduct research and studies to support product design
+ Translate design inputs to engineering specifications and produce component and sub-system level designs
+ Code development time/resource estimation to support projects
+ Design new components applying various design concepts
+ Generate and review the necessary documents with project teams (requirements, design, architecture, bugs, test)
+
+Business Responsibilities:
+
+ Demonstrate advanced understanding of customer needs and design inputs
+ Demonstrate proficiency with product’s intended use and clinical procedures
+ Learn how the financial models are constructed
+
+Med Device Compliance:
+
+ Follow fundamental industry standards, design requirements and test strategies which apply to regulatory requirements
+ Independently create or refine engineering documentation, such as the Design History file
+ Follow R&D procedure like design controls and risk management, per the Quality Management System
+
+General Responsibilities:
+
+ Work cooperatively with R&D, Quality, Manufacturing, Regulatory, Clinical, Marketing and Project Management to ensure project success as a key member of the team, collaborating with others and solidifying relationships
+ Quickly process and assimilate procedures, policies, processes, systems, and technology required
+ Work on complex problems, applying advanced experience and learnings
+ Demonstrate ownership and prioritize work with minimal supervision
+ Build relationships and influence among peers
+ Lead code reviews for components in systems applying design principals, coding standards and best practices
+ Develop and design software components per requirements and architecture defined
+
+What you need:
+
+Minimum Qualifications (Required):
+
+ Bachelor's degree in Software Engineering/ Computer Science or related discipline & 2+ years of work experience
+
+Preferred Qualifications (Strongly desired):
+
+Technical Skills:
+
+ Exposure to programming skills. Design new components applying various concepts design concepts and patterns
+
+Design and Development Skills:
+
+ Experience with integrated development environments (IDE) for projects
+ Experience with software tools for static/dynamic analysis, memory management, code coverage and techniques for analyzing software
+ Integration and deployment processes experience
+
+Software Process Skills:
+
+ Experience in creating estimates for code implementation time/resource for assigned tasks
+ Experience in Software Development Life Cycle processes
+ Experience using Application Lifecycle Management /Traceability tools
+ Experience with regulatory and compliance standards applied to the SDLC (Software Development Life Cycle)
+
+Stryker is a global leader in medical technologies and, together with its customers, is driven to make healthcare better. The company offers innovative products and services in MedSurg, Neurotechnology, Orthopaedics and Spine that help improve patient and healthcare outcomes. Alongside its customers around the world, Stryker impacts more than 150 million patients annually.
+Put your best foot forward with your application
+Put your best foot forward with your application
+Hire a resume writer
+Hire a resume writer
+Get a resume review
+Unlock hiring insights on Stryker
+7%
+7
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+58%
+have a Bachelor of Technology
+Applicant seniority level
+55%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+Stryker
+1,504,708 followers
+Follow
+Medical Equipment Manufacturing 10,001+ employees 46,702 on LinkedIn
+Stryker is a global leader in medical technologies and, together with our customers, we are driven to make healthcare better. We offer innovative products and services in MedSurg, Neurotechnology and Orthopaedics that help improve patient and healthcare outcomes. Alongside its customers around the world, Stryker impacts more than 150 million patients annually. More information is available at stryker.com and careers.stryker.com.
+
+Facts:
+● 2023 Sales: $20.5 billion
+● Industry: Medical Instruments & Supplies
+● Employees: 52,000 worldwide
+● 40 years of sales growth leading up to 2020
+● 44+ Manufacturing and R&D Locations Worldwide
+● $1.4 billion spent on research and development in 2023
+● ~12,900 patents owned globally in 2023
+● Products sold in ~75 countries
+● Fortune 500 Company
+● 7 consecutive years as one of Fortune's World's Best Workplaces
+
+Stryker’s social media community guidelines: https://www.stryker.com/content/m/legal/social-media-community-guidelines/en/index.html
+
+Notice Regarding Employee Conduct on Facebook/LinkedIn
+Meta/LinkedIn does not permit employers to verify or validate “employees” in the (META: “Works at” LinkedIn: “Experience”) section of users’ profiles. Please be aware that the views expressed by individuals on their personal accounts and do not necessarily represent the views of our company. If you encounter any issues with a person claiming to be our employee, we recommend using the “Report Profile” feature. If you’d like to report concerns to our Ethics Hotline, you may do so at: https://app.convercent.com/en-us/LandingPage/b6bb4e84-9fcb-ea11-a974-000d3ab9f296
+…
+show more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Trending employee content
+Page 1 of 4
+Previous
+Next
+Show more
+================================================================================
+Index: 11
+Payoneer
+Share
+Show more options
+Sr Software Engineer 
+Gurugram, Haryana, India · 20 hours ago · 26 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save Sr Software Engineer  at Payoneer
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+About Payoneer
+
+Founded in 2005, Payoneer is the global financial platform that removes friction from doing business across borders, with a mission to connect the world’s underserved businesses to a rising global economy. We’re a community with over 2,500 colleagues all over the world, working to serve customers, and partners in over 190 markets.
+
+By taking the complexity out of the financial workflows–including everything from global payments and compliance, to multi-currency and workforce management, to providing working capital and business intelligence–we give businesses the tools they need to work efficiently worldwide and grow with confidence.
+
+What will you do? ��
+
+Translate requirements and implement product features to perfection
+Work directly with developers as a team lead and manage products to conceptualise, build, test and realise products
+Deliver best-in-class code across a broad array of interactive web and mobile products
+Work on continuous improvement of the products through innovation and learning.
+A knack for benchmarking and optimization
+Developing features for highly complex, distributed transaction processing systems.
+Implement functionality for automated tests that will successfully pass and meet coding standards.
+Debug production issues and create subsequent mitigation plans.
+Optimize the performance of existing implementations.
+Stay abreast of new innovations and the latest technology trends and explore ways of leveraging these for improving the product in alignment with the business.
+
+What makes you a great match for us? ��
+
+5-7 years of experience as a Backend developer.
+Experience in Node.JS & Nestjs is a must and experience in any of these is good to have - Javascript, Java, Typescript
+Database architecture and design on SQL (like Postgres) and NoSQL (like MongoDB systems.
+DOM manipulation and new CSS functionalities and processors
+Memory management, multithreaded programming and background processing.
+Unit-testing and a strong emphasis on TDD
+Debug moderately complex problems and analyze logs in production systems and to read existing code.
+Various data storage options, such as Relational, NoSQL
+Object-oriented design, data structures, and complexity analysis
+CI/CD environment with Jenkins/CircleCI
+Microservices
+Agile Development SCRUM methodology, JIRA
+Code versioning tools such as Git, Bitbucket, Mercurial, SVN, etc
+WebSocket, REDIS, Memcached, and Cloud Messaging Frameworks PUSH Notifications)
+Elasticsearch ELK stack- Elasticsearch, Kibana, and Logstash, REST API integration.
+Have the ability to deal with ambiguity
+Critical Thinker, Problem Solver and team player
+
+The Payoneer Ways of Working
+
+Act as our customer’s partner on the inside
+
+Learning what they need and creating what will help them go further.
+
+Continuously improve
+
+Always striving for a higher standard than our last.
+
+Do it. Own it.
+
+Being fearlessly accountable in everything we do.
+
+Build Each Other Up
+
+Helping each other grow, as professionals and people.
+
+If this sounds like a business, a community, and a mission you want to be part of, click now to apply.
+
+We are committed to providing a diverse and inclusive workplace. Payoneer is an equal opportunity employer, and all qualified applicants will receive consideration for employment no matter your race, color, ancestry, religion, sex, sexual orientation, gender identity, national origin, age, disability status, protected veteran status, or any other characteristic protected by law. If you require reasonable accommodation at any stage of the hiring process, please speak to the recruiter managing the role for any adjustments. Decisions about requests for reasonable accommodation are made on a case-by-case basis.
+
+Unlock hiring insights on Payoneer
+9%
+9
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+68%
+have a Bachelor's Degree
+Applicant seniority level
+50%
+Senior level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+Payoneer
+221,616 followers
+Follow
+Financial Services 1,001-5,000 employees 2,984 on LinkedIn
+Payoneer is the financial technology company empowering the world’s small and medium-sized businesses to transact, do business, and grow globally. Payoneer was founded in 2005 with the belief that talent is equally distributed, but opportunity is not. It is our mission to enable any entrepreneur and business anywhere to participate and succeed in an increasingly digital global economy. Since our founding, we have built a global financial stack that removes barriers and simplifies cross-border commerce. We make it easier for millions of SMBs, particularly in emerging markets, to connect to the global economy, pay and get paid, manage their funds across multiple currencies, and grow their businesses.
+
+Our only official Help channel on LinkedIn: https://www.linkedin.com/showcase/payoneer-help/
+
+---
+The content provided in this article including any information relating to pricing, fees, and other charges is accurate and valid only as of the date it was published. In addition, changes in applicable regulations, policies, market conditions, or other relevant factors may impact the accuracy of the mentioned pricing and fees and other associated details. Accordingly, it is further clarified that any information regarding pricing, fees and other charges is subject to changes, and it is your responsibility to ensure you are viewing the most up-to-date content applicable to you. Payoneer will provide the most up-to-date and accurate information relating to pricing and fees as part of the account registration process. Registered customers can view this information via their online account.
+
+Payoneer Customer Assistance, Complaints and Disclosures: https://www.payoneer.com/customer-disclosures-and-complaints/
+…
+show more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Trending employee content
+Page 1 of 4
+Previous
+Next
+Show more
+================================================================================
+Index: 13
+PAR Technology
+Share
+Show more options
+Software Engineer - Ruby on Rails 
+Gurugram, Haryana, India · Reposted 6 days ago · Over 100 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save Software Engineer - Ruby on Rails  at PAR Technology
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+For over four decades, PAR Technology Corporation (NYSE: PAR) has been a leader in restaurant technology, empowering brands worldwide to create lasting connections with their guests. Our innovative solutions and commitment to excellence provide comprehensive software and hardware that enable seamless experiences and drive growth for over 100,000 restaurants in more than 110 countries. Embracing our "Better Together" ethos, we offer Unified Customer Experience solutions, combining point-of-sale, digital ordering, loyalty and back-office software solutions as well as industry-leading hardware and drive-thru offerings. To learn more, visit partech.com or connect with us on LinkedIn, X (formerly Twitter), Facebook, and Instagram.
+
+Position Description
+
+We are looking for a Software Engineer with experience in ROR , having 3+ yrs of experience on how best to leverage and exploit the language’s unique paradigms, idioms, and syntax. Your primary focus will be on developing enterprise-grade systems and programs that are scalable and maintainable. You will ensure that these packages and programs are well documented and has a reasonable test coverage. You will coordinate with the rest of the team working on different layers of the infrastructure. A commitment to collaborative problem solving, sophisticated design, and quality product is essential.
+
+Position Location:
+
+Jaipur or Gurugram
+
+What We’re Looking For
+
+Working experience on Ruby-on-Rails(ROR)
+Worked on enterprise grade systems
+Have designed web services
+Know how to scale systems that have database bottlenecks etc.
+Having good exposure to Microservices architecture added value.
+Familiarity with OAuth, JWT, SSO, Authentication, and Identity Federation is an added advantage.
+Familiar with AWS, Docker, and Kubernetes, Pods and Meshes are added advantage.
+Experience in MySQL, Snowflake, and MongoDB is an added advantage
+
+Unleash your potential: What you will be doing and owning:
+
+Writing scalable, robust, testable, efficient, and easily maintainable code
+Translating software requirements into stable, working, high performance software
+Playing a key role in architectural and design decisions, building toward an efficient micro services distributed architecture
+
+Interview Process
+
+Interview #1: Phone Screen with Talent Acquisition Team
+
+Interview #2: Video interview with the Technical Teams (via MS Teams/F2F)
+
+Interview #3: Video interview with the Hiring Manager (via MS Teams/F2F)
+
+PAR is proud to provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. We also provide reasonable accommodations to individuals with disabilities in accordance with applicable laws. If you require reasonable accommodation to complete a job application, pre-employment testing, a job interview or to otherwise participate in the hiring process, or for your role at PAR, please contact accommodations@partech.com. If you’d like more information about your EEO rights as an applicant, please visit the US Department of Labor's website.
+Unlock hiring insights on PAR Technology
+9%
+9
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+51%
+have a Bachelor of Technology
+Applicant seniority level
+71%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+PAR Technology
+95,887 followers
+Follow
+Software Development 1,001-5,000 employees 1,904 on LinkedIn
+At PAR Technology, our relentless drive for innovation and unwavering commitment to customer success are at the heart of everything we do. We lead the restaurant and retail industries by ensuring that our products—from point of sale systems to loyalty programs, digital ordering, restaurant operations solutions, payment services, and hardware—work "better together." This unified approach, fueled by over 40 years of experience, amplifies our ambition to not just meet but exceed the evolving needs of our global clientele. By optimizing integrations into all leading restaurant solutions, we're not just creating technology; we're crafting a future where operations are streamlined, experiences are enhanced, and every interaction is an opportunity for growth.
+
+PAR Technology Corporation's stock is traded on the New York Stock Exchange under the symbol PAR. For more information, visit www.partech.com.
+
+PAR recruiters and hiring managers do not request personal information from applicants via email. Personal information should only be provided by applicants within PAR’s secure applicant tracking system (ATS) powered by Ashby.
+…
+show more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Trending employee content
+Page 1 of 4
+Previous
+Next
+Show more
+================================================================================
+Index: 14
+PubMatic
+Share
+Show more options
+Solutions Engineer - DSPs 
+Gurugram, Haryana, India · Reposted 1 day ago · 61 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+Hybrid
+Apply
+Save
+Save Solutions Engineer - DSPs  at PubMatic
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+About The Role
+
+The Solutions Engineer, DSP at PubMatic drives the success of DSPs launches and platform integrations. The Solution Engineer is deployed for strategic DSPs launches to ensure that the implementation of platform products is completed on-schedule and successfully, and leads the tracking of technical escalations after launch. This position is a critical to the growth of our strategic partnerships with DSPs, as well as the ongoing evolution of our product suite.The responsibilities include partnering with the DSPs Development team by designing and executing implementation plans for customers, collaborating with Product Management and Engineering teams to coordinate resources, and supporting the Account Management teams to drive opportunities to optimize the customer relationship.
+
+What You'll Do
+
+Influence Product roadmap functionality based on market-driven requirements. Optimizations and escalations.
+Work with customer-facing teams to identify business goals, opportunities, and clients' objectives and ensure the highest level of implementation of PubMatic products.
+Actively respond to high-level escalations for Demand side clients relating to integration issues, discrepancies, and any other technical issues.
+Participate in and contribute to on-site quarterly business reviews with clients to review technical issues and product support opportunities.
+The Solution Engineer will directly interact & work closely with the Operations, product management, and the core Engineering development teams.
+The Solution Engineer will have to understand how engineering solves the problems, and then solve it next time a similar issue is registered.
+Work closely with the account team to grow and optimize DSP's portfolio.
+
+We'd Love for You to Have
+
+Two plus years of experience in Python, SQL, Database tools, and moderate knowledge about web-based applications, Web server/Ad server/Mozilla Firefox, and how to work on different web-based browsers.
+Candidates for this position should be proactive, respond positively and actively to challenges and pressure.
+Confidence to handle problems and work with people across a diversity of functions is required.
+We seek a take-charge person, ingenious and practical in finding solutions to problems, decisive and venturesome in putting solutions into action.
+We are looking for a leader with the ability to motivate people in the process of getting things done. Demonstrated team-building experience and an active network are preferred.
+Demonstrated experience with Demand Side technologies and buyer workflows.
+Understanding of RTB and programmatic supply chain, key partners, etc.
+Should have a bachelor’s degree in engineering (CS / IT) or equivalent degree from a well-known institute/university.
+
+Additional Information
+
+Return to Office: PubMatic employees throughout the global have returned to our offices via a hybrid work schedule (3 days “in office” and 2 days “working remotely”) that is intended to maximize collaboration, innovation, and productivity among teams and across functions.
+
+Benefits: Our benefits package includes the best of what leading organizations provide, such as paternity/maternity leave, healthcare insurance, broadband reimbursement. As well, when we’re back in the office, we all benefit from a kitchen loaded with healthy snacks and drinks and catered lunches and much more!
+
+Diversity and Inclusion: PubMatic is proud to be an equal opportunity employer; we don’t just value diversity, we promote and celebrate it. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+About PubMatic
+
+PubMatic is one of the world’s leading scaled digital advertising platforms, offering more transparent advertising solutions to publishers, media buyers, commerce companies and data owners, allowing them to harness the power and potential of the open internet to drive better business outcomes.
+
+Founded in 2006 with the vision that data-driven decisioning would be the future of digital advertising, we enable content creators to run a more profitable advertising business, which in turn allows them to invest back into the multi-screen and multi-format content that consumers demand.
+Benefits found in job post
+Paid maternity leave
+Unlock hiring insights on PubMatic
+4%
+4
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+42%
+have a Bachelor of Technology
+Applicant seniority level
+62%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+PubMatic
+347,458 followers
+Follow
+Technology, Information and Internet 501-1,000 employees 1,244 on LinkedIn
+PubMatic (Nasdaq: PUBM) is an independent technology company maximizing customer value by delivering digital advertising’s supply chain of the future.
+
+PubMatic’s sell-side platform empowers the world’s leading digital content creators across the open internet to control access to their inventory and increase monetization by enabling marketers to drive return on investment and reach addressable audiences across ad formats and devices. Since 2006, our infrastructure-driven approach has allowed for the efficient processing and utilization of data in real time. By delivering scalable and flexible programmatic innovation, we improve outcomes for our customers while championing a vibrant and transparent digital advertising supply chain.
+…
+show more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Company photos
+Page 1 of 7
+Previous
+Next
+Show more
+================================================================================
+Index: 15
+Affle
+Share
+Show more options
+SDE II - NodeJS, Newton
+Gurugram, Haryana, India · 3 weeks ago · Over 100 people clicked apply
+Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save SDE II - NodeJS, Newton at Affle
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+Designation: SDE II - NodeJS, Newton
+
+Office Location: Gurugram
+
+Position Description: 
+
+We’re looking for a skilled Node.js Developer with a strong foundation in data engineering to join our engineering team. You’ll be responsible for building scalable backend systems using modern Node.js frameworks and tools, while also designing and maintaining robust data pipelines and integrations.
+
+Primary Responsibilities:
+
+Build and maintain performant APIs and backend services using Node.js and frameworks like Express.js, NestJS, or Fastify. 
+Develop and manage ETL/ELT pipelines, data models, schemas, and data transformation logic for analytics and operational use. 
+Ensure data quality, integrity, and consistency through validation, monitoring, and logging. 
+Work with database technologies (MySQL, PostgreSQL, MongoDB, Redis) to store and manage application and analytical data. 
+Implement integrations with third-party APIs and internal microservices. 
+Use ORMs like Sequelize, TypeORM, or Prisma for data modeling and interaction. 
+Write unit, integration, and E2E tests using frameworks such as Jest, Mocha, or Supertest. 
+Collaborate with frontend, DevOps, and data engineering teams to ship end-to-end features. 
+Monitor and optimize system performance, logging (e.g., Winston, Pino), and error handling. 
+Contribute to CI/CD workflows and infrastructure automation using tools like PM2, Docker and Jenkins. 
+
+Required Skills:
+
+3+ years of experience in backend development using Node.js. 
+Hands-on experience with Express.js, NestJS, or other Node.js frameworks. 
+Understanding of data modelling, partitioning, indexing, and query optimization. 
+Experience in building and maintaining data pipelines, preferably using custom Node.js scripts. 
+Familiarity with stream processing and messaging systems (e.g., Kafka, RabbitMQ, or Redis Streams). 
+Solid understanding of SQL and NoSQL data stores and schema design. 
+Strong knowledge of JavaScript and preferably TypeScript. 
+Familiarity with cloud platforms (AWS/GCP/Azure) and services like S3, Lambda, or Cloud Functions. 
+Experience with containerized environments (Docker) and CI/CD. 
+Experience with data warehouses (e.g., BigQuery, Snowflake, Redshift). 
+
+Nice To Have:
+
+Cloud Certification in AWS or GCP. 
+Experience with distributed processing tools (eg. Spark, Trino/Presto)
+Experience with Data Transformation tool (ex. DBT, SQLMesh) and Data Orchestration (ex. Apache Airflow, Kestra etc)
+Familiarity with Serverless architectures and tools like Vercel/Netlify for deployment. 
+
+Work Environment Details:
+
+About Affle:
+
+Affle is a global technology company with a proprietary consumer intelligence platform that delivers consumer engagement, acquisitions, and transactions through relevant Mobile Advertising. The platform aims to enhance returns on marketing investment through contextual mobile ads and also by reducing digital ad fraud. While Affle's Consumer platform is used by online & offline companies for measurable mobile advertising, its Enterprise platform helps offline companies to go online through platform-based app development, enablement of O2O commerce and through its customer data platform.
+
+Affle India successfully completed its IPO in India on 08. Aug.2019 and now trades on the stock exchanges (BSE: 542752 & NSE:AFFLE). Affle Holdings is the Singapore based promoter for Affle India and its investors include Microsoft, Bennett Coleman &Company (BCCL) amongst others.
+
+For more details: www.affle.com
+
+About BU
+
+About Newton:
+
+Scale the Impact of Apple Search Ads Campaigns with Newton: Performance-focused Apple Search Ads management platform, powered by data intelligence and in-depth expertise to deliver business growth. Newton is crafted for targeting and optimizing your Apple Search Ads user acquisition campaign for bottom-of-funnel campaign goals - app installs, user activation, product purchases, and more. Utilizing AI-powered keyword suggestions, market insights, automated bid optimization, comprehensive funnel analytics, and dedicated client support, brands can improve visibility and expand the market share of their iOS app with Apple Search Ads. This results in acquiring new customers and driving business growth with an impressive ROI from your mobile advertising efforts.
+
+For more details please visit - https://newtonco.ai/
+Unlock hiring insights on Affle
+3%
+-3
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+61%
+have a Bachelor of Technology
+Applicant seniority level
+70%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+Affle
+93,119 followers
+Follow
+Software Development 501-1,000 employees 386 on LinkedIn
+Affle 3i Limited is a global technology company with a proprietary consumer intelligence platform that delivers consumer recommendations and conversions through relevant Mobile Advertising. The platform aims to enhance returns on marketing investment through contextual mobile ads and also by reducing digital ad fraud. Affle powers unique and integrated consumer journeys for marketers to drive high ROI, measurable outcome-led advertising across global connected devices. Some of Affle's leading platforms include - Appnext, Jampp, MAAS, mDMP, mediasmart, mTraction Enterprise, RevX, Vizury, YouAppi.
+
+Affle (India) Limited successfully completed its IPO in India and now trades on the stock exchanges (BSE: 542752 & NSE: AFFLE). Affle Holdings is the Singapore-based promoter for Affle (India) Limited, and its investors include Microsoft, Bennett Coleman & Company (BCCL) amongst others.
+…
+show more
+Show more
+================================================================================
+Index: 17
+Nielsen
+Share
+Show more options
+Technical Support Engineer 
+Gurgaon, Haryana, India · Reposted 1 week ago · Over 100 applicants
+Promoted by hirer · No response insights available yet
+Hybrid
+Full-time
+Easy Apply
+Save
+Save Technical Support Engineer  at Nielsen
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+At Nielsen, we are passionate about our work to power a better media future for all people by providing powerful insights that drive client decisions and deliver extraordinary results. Our talented, global workforce is dedicated to capturing audience engagement with content - wherever and whenever it’s consumed. Together, we are proudly rooted in our deep legacy as we stand at the forefront of the media revolution. When you join Nielsen, you will join a dynamic team committed to excellence, perseverance, and the ambition to make an impact together. We champion you, because when you succeed, we do too. We enable your best to power our future.
+
+• The team this role supports is responsible for the critical function of managing lineups and
+metadata across various media channels such as cable, broadcast and video on demand etc. that
+encompasses a wide scope dealing with data from both local and national providers.
+• This role requires flexibility to provide technical support across different time zones,
+including both IST and US business hours on a rotational basis. The Support Engineer will
+serve as the primary point of contact for customer and stakeholder inquiries, responsible for
+troubleshooting issues, following Standard Operating Procedures (SOPs) and escalating to the
+development team when necessary.
+• This role requires close collaboration with cross-functional teams to ensure timely and
+effective issue resolution, driving operational stability and enhancing customer
+satisfaction.
+• In this role, you will debug and attempt to resolve issues independently using SOPs. If
+unable to resolve an issue, you will escalate it to the next level of support, involving the
+development team as needed. Your goal will be to ensure efficient handling of support
+requests and to continuously improve SOPs for recurring issues.
+
+Responsibilities:-
+• Serve as the first point of contact for customer or stakeholder issues, providing prompt
+support during the US/IST time zone on a rotational basis. Execute SOPs to troubleshoot and
+resolve recurring issues and ensuring adherence to documented procedures
+• Provide technical support and troubleshooting for cloud-based infrastructure and services,
+including compute, storage, networking and security components
+• Collaborate with application, security and other internal teams to resolve complex issues
+related to cloud-based services and infrastructure
+• Escalate unresolved issues to the development team and provide clear documentation of
+troubleshooting steps taken. Document and maintain up-to-date SOPs, troubleshooting
+guides, and technical support documentation. Collaborate with cross-functional teams to
+ensure issues are tracked, escalated, and resolved efficiently
+• Proactively identify and suggest process improvements to enhance support quality and
+response times
+
+Key Skills:
+ Bachelor's or Master’s degree in Computer Science, Software Engineering, or a related field
+Experience Range- 4 to 6 years
+
+Must have skills:
+Proficiency in Java programming language
+Excellent SQL skills for querying and analyzing data from various database systems
+Good understanding of database concepts and technologies
+Good problem-solving skills and ability to work independently
+Good proficiency in AWS cloud platform and its core services
+Good written and verbal communication skills with a strong emphasis on technical
+documentation
+Ability to follow and create detailed SOPs for various support tasks
+
+Good to have skills:
+ Knowledge of Scala/Python for scripting and automation
+ Familiarity with big data technologies such as Spark and Hive
+
+
+Please be aware that job-seekers may be at risk of targeting by scammers seeking personal data or money. Nielsen recruiters will only contact you through official job boards, LinkedIn, or email with a nielsen.com domain. Be cautious of any outreach claiming to be from Nielsen via other messaging platforms or personal email addresses. Always verify that email communications come from an @nielsen.com address. If you're unsure about the authenticity of a job offer or communication, please contact Nielsen directly through our official website or verified social media channels.
+
+Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status or other characteristics protected by law.
+Unlock hiring insights on Nielsen
+5%
+5
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+46%
+have a Bachelor of Technology
+Applicant seniority level
+62%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+Nielsen
+1,301,964 followers
+Follow
+Software Development 10,001+ employees 29,011 on LinkedIn
+Nielsen shapes the world’s media and content as a global leader in audience insights, data and analytics. Through our understanding of people and their behaviors across all channels and platforms, we empower our clients with independent and actionable intelligence so they can connect and engage with their audiences—now and into the future.
+
+Nielsen operates around the world in more than 55 countries. Learn more at http://nlsn.co/6006JMfty and connect with us on social media (LinkedIn, Twitter, Facebook and Instagram).
+…
+show more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Trending employee content
+Page 1 of 3
+Previous
+Next
+Show more
+================================================================================
+Index: 19
+NVIDIA
+Share
+Show more options
+ASIC Engineer 
+Gurugram, Haryana, India · Reposted 1 week ago · Over 100 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save ASIC Engineer  at NVIDIA
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+NVIDIA has continuously reinvented itself. Our invention of the GPU sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. Today, research in artificial intelligence is booming worldwide, which calls for highly scalable and massively parallel computation horsepower that NVIDIA GPUs excel.
+
+NVIDIA is a “learning machine” that constantly evolves by adapting to new opportunities that are hard to solve, that only we can address, and that matter to the world. This is our life’s work , to amplify human creativity and intelligence. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join our diverse team and see how you can make a lasting impact on the world!
+
+We are now looking for highly driven and innovative ASIC / Hardware Engineers. We are looking for bright engineers across our hardware engineering groups to help us Architect, Design and verify our next generation GPUs, CPU and SoCs meant to accelerate the performance of Data Center, Machine Learning, Autonomous Driving, Ray Tracing and many more exciting applications. You will get to work on high performance GPU / SOC/ CPU across Memory sub-systems, Graphic processing units, NOC based Interconnect Fabric, High speed IO's etc.
+
+What You'll Be Doing
+
+Work on hardware models of different levels of extraction, including performance models, RTL test benches and emulators to find performance bottlenecks in the system. 
+Work closely with the architecture and design teams to explore architecture trade-offs related to system performance, area, and power consumption. 
+Understand key performance use cases or the product. Develop workloads and test suites targeting graphics, machine learning, automotive, video, compute vision applications running on our products. 
+You will be responsible to make architectural trade-offs based on feature/performance/power requirements, analyse system implications, come up with the micro-architecture, implement RTL, drive the verification, close timing, and support silicon validation.
+Developing test plans, tests and verification infrastructure for complex IP's/sub-system/SOC's.
+Creating verification environment using UVM methodology and reusable bus functional models, monitors, checkers and scoreboards.
+Driving functional coverage driven verification closure.
+Develop and enhance timing analysis/signoff work-flow from frontend (pre-layout) to backend (post-layout) at both chip and block level.
+Develop custom timing scripts using tcl/primetime for clock skew analysis, special circuits such as clock dividers, core logic IO macros interfaces such as PCI-E, Frame-Buffer/Memory, HDMI, etc.
+Chip level Integration, physically partitioning and floor planning along with Physical Verification and EM IR Drop
+You will be responsible for the design and implementation of state-of-the-art designs in test access mechanisms, IO BIST, memory BIST and scan compression.
+In addition, you will help develop and deploy DFT methodologies for our next generation products.
+Be apart of innovation to strive improve the quality of DFT methods.
+Work with architects, designers and post-silicon teams.
+
+What We Need To See
+
+BTech/MTech with 2+ years of experience in micro-architecture, RTL development of complex designs.
+Possess strong digital design fundamentals.
+Preferably have a deep understanding of ASIC design flow including RTL design, verification, logic synthesis, prototyping, DFT, timing analysis, floor planning, ECO, bring up and lab debug is a prerequisite for this role.
+If you have experience in at least a few of the following skills, we will have an excellent match for our needs:
+GPU / CPU / SOC Performance verification and analysis.
+CPU, Memory controller, Bus Interconnect, Cache coherency
+IP / SOC Design, Micro-architecture across High Speed IO controller (UFS/PCIE/ XUSB), Network on Chip / 10G Ethernet MAC and (or) Switch
+IP / SOC
+Graphics Processing Unit (GPU Design & Verification)
+BOOT and Power management features for complex SOC’s
+FPGA Prototype with prior experience in HAP
+Good debugging and analytical skills.
+Good interpersonal skills and ability to work as an excellent teammate
+Excellent communication skills to collaborate with cross-cultural teams and work in a matrix organization
+
+With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most brilliant and talented people in the world working for us. If you're creative and independent, with a genuine real passion for technology, we want to hear from you.
+
+JR1978791
+
+Unlock hiring insights on NVIDIA
+27%
+27
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+34%
+have a Bachelor of Technology
+Applicant seniority level
+52%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+NVIDIA
+3,355,440 followers
+Follow
+Computer Hardware Manufacturing 10,001+ employees 41,641 on LinkedIn
+Since its founding in 1993, NVIDIA (NASDAQ: NVDA) has been a pioneer in accelerated computing. The company’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling the creation of the metaverse. NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry.
+…
+show more
+Commitments
+Diversity, equity, and inclusion
+We’re focused on hiring a representative workforce. We’ve achieved pay parity for the past several years and are committed to continuing this practice. But progress goes beyond pay parity. It includes an ongoing commitment to ensuring that we’re equitable in how we hire, develop, promote and reward employees. We are committed to creating an inclusive culture that supports all our employees. We tap into diverse student organizations at more than 25 university campuses, including Minority Serving Institutions, Historically Black Colleges and Universities (HBCUs), and Hispanic-Serving Institutions (HSIs). We also engage with external partnerships such as Anita Borg, Latinas in Tech, Women in Machine Learning, National Society Black Engineers, and Society of Hispanic Professional Engineers.
+…
+Show more
+Career growth and learning
+At NVIDIA, we view career growth as a dynamic journey that evolves with an individual's interests, skills, and aspirations. We are committed to fostering a culture of lifelong learning, empowering all NVIDIANs to pursue their life's work and make a difference in the world of technology. NVIDIA is dedicated to supporting career growth by providing opportunities for skills enhancement, professional development, and exposure to new challenges. Opportunities for learning include our continuing education programs, learning platforms, internal academies, digital libraries access, people leader programs, professional development trainings, and more. Our emphasis on innovation enables NVIDIANs to embrace new experiences, expand their expertise, and connect with a diverse network of colleagues. As you navigate your unique career journey at NVIDIA, you can count on us to be there every step of the way, helping you uncover your passions, develop your talents, and make the most of the incredible resources within our global community. Together, we’ll shape the future of technology and continue to break new ground in areas ranging from gaming and creative design to robotics, science and AI.
+…
+Show more
+Environmental sustainability
+NVIDIA’s technological leaps in accelerated computing and generative AI are at the heart of a new industrial revolution, fundamentally reshaping industries by enhancing computing power and significantly advancing sustainability. By accelerating workloads with NVIDIA GPUs operating in parallel, we exponentially increase throughput while driving down the total energy used to complete a task and, thus, the total cost of ownership. Accelerated computing took workloads that previously required tens of thousands of general-purpose servers, consuming 10X to 20X more cost and energy and compressed it into something incredibly dense. NVIDIA’s AI technologies can transform climate research and help the world mitigate and adapt to the impacts of climate change. In addition to powering climate and weather simulations, AI is accelerating the energy transition by making industrial-scale renewable energy more efficient and economically viable. AI can also optimize solar and wind farms, enhance power grid reliability and resilience, advance carbon capture, and power fusion breakthroughs.
+…
+Show more
+Work-life balance
+NVIDIA works hard to deliver comprehensive benefits to support all employees and their families, no matter where they are in their lives and careers. Our healthcare coverage and well-being resources go beyond the industry standard. What sets NVIDIA's culture apart is our desire to listen to employee suggestions, try new things, and constantly adjust our approach to make sure we can best support employees as they strive to balance their personal and professional lives.
+…
+Show more
+Social impact
+AI represents the most profound technological shift in our era, touching virtually every industry, including robotics, cybersecurity, finance, healthcare, transportation, retail, and customer service. NVIDIA accelerates this revolution by creating advanced computing tools that serve as open platforms for developers, researchers, and data scientists to innovate in these areas. We aim to improve outcomes for everyday people while tackling future challenges by delivering new technologies and workforce training programs to enhance industrial development and advance generative AI research. NVIDIANs around the world are committed to helping those in need. NVIDIA employees donated over $16 million, up 84% compared to FY23. They also logged nearly 40,000 hours of skilled and hands-on volunteer time through virtual and in-person efforts—up 36% compared to the previous fiscal year. In all, NVIDIANs and the company contributed $40 million in charitable giving and supported more than 6,000 nonprofits in 58 countries.
+…
+Show more
+Learn more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Company photos
+Page 1 of 6
+Previous
+Next
+Show more
+================================================================================
+Index: 21
+Jacobs
+Share
+Show more options
+Deputy Engineer - Mechanical 
+Gurgaon, Haryana, India · 6 days ago · Over 100 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save Deputy Engineer - Mechanical  at Jacobs
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+At Jacobs, we're challenging today to reinvent tomorrow by solving the world's most critical problems for thriving cities, resilient environments, mission-critical outcomes, operational advancement, scientific discovery and cutting-edge manufacturing, turning abstract ideas into realities that transform the world for good.
+
+Your impact
+
+Jacobs is a global provider of technical, professional, and scientific services including engineering, architecture, construction, operations, and project management. Our portfolio spans industrial, commercial, and government clients across multiple markets and geographies. We have a PAN-India presence; with five world-class engineering delivery centres in Mumbai, Gurgaon, Hyderabad, Ahmedabad, Bangalore & Kolkata.
+
+Job Requirement
+
+Familiar with working to design national and international codes and industry standards appropriate for Water and Wastewater industry.
+Experience of working on Middle East projects is a preferred.
+Design and Detail Engineering of Industrial Water Piping Systems with exposure to various codes and standards like IS, AWWA, IWWA, ASME, ANSI, BS, HIS, CPHEEO Manual, ISO, DIN etc.
+Preparation and Checking of Piping Layouts and utility systems for Water Treatment Plants (WTP) comprising of Primary Treatment System, Secondary Treatment System and Tertiary Treatment System which includes UF, MF, RO etc.
+Design, preparation and checking of piping layout for water plant projects / desalination / ETP projects with expertise knowledge on piping design of RO-DM package / ZLD package / CPU area package systems/Skid & frontal piping. Design, preparation and checking of Mechanical GA of Chemical House, UF-RO building, centrifuge building, RCC & structural tank, Pressure Vessel.
+Mechanical design of Pumping stations like Raw water Intake systems, Clear water Pumphouse in WTP, Wastewater and Treater water Pumping station for STP as per CPHEEO Guideline / Hydraulic Institute(ANSI std.).
+A sound understanding of mechanical engineering principles and their application in Water, Wastewater treatment plant processes and pumping stations.
+Experience in the production of design documentations including optioneering reports and specifications of mechanical equipment.
+Experience in producing design calculations of mechanical equipment for Water and Wastewater treatment plants.
+Ability to produce hydraulic calculations for mechanical equipment, equipment datasheets/specifications and schedules.
+Pipe sizing calculations, pump sizing calculations, wet well/reservoir sizing calculations.
+General Arrangement drawings for piping and mechanical equipment. Isometric drawings. P&IDs, PFDs etc.
+Software- AutoCAD working knowledge is essential and AutoCAD, Revit/ Plant 3D would be an added advantage. Should have working knowledge of 3D Models etc. such as Navis works.
+Should have experience on Plant Hydraulics (Software’s like Fathom, Water Gems and Surge Software’s like Water Hammer, SAP etc.
+Should have Good Communication Skills & should be proficient in English language.
+
+
+Responsibilities
+
+Technically competent and ability to use engineering judgement independently to determine solutions
+Prepare Technical Reports and contractual documents of acceptable technical and presentational quality with minimum guidance.
+Apply new ideas/digital idea to improve solutions and processes to improve efficiency.
+Receive on the job technical training through performing tasks with minimum supervision.
+Good knowledge of work procedures and ensure work adheres to procedures.
+Responsible for completion of specifically assigned tasks to time and cost.
+Able to work as reliable and pro-active member of the team, able to apply knowledge gained.
+Able to work on several projects, and to communicate clearly with a range of people, including making presentations. Flexible and enthusiastic; team player.
+Conversant with MS Office tools.
+Supporting and mentoring, with the possibility of formal line management responsibilities.
+Working within the company's quality-assured delivery processes and delivering output to the required level of quality.
+
+
+We value collaboration and believe that in-person interactions are crucial for both our culture and client delivery. We empower employees with our hybrid working policy, allowing them to split their work week between Jacobs offices/projects and remote locations enabling them to deliver their best work.
+
+Here's what you'll need
+
+Minimum Requirements
+
+Minimum Bachelor's or Post Graduate degree in mechanical engineering from a reputed university / institute.
+Should have minimum 4+ Years of experience in design for Consultancy or EPC Water Sector Industry.
+Software- AutoCAD working knowledge is essential and AutoCAD, Revit/ Plant 3D would be an added advantage. Should have working knowledge of 3D Models etc. such as Navis works.
+Experience of working on Middle East projects is a preferred.
+
+
+Why Jacobs 
+
+At Jacobs we value people. Having the right balance of diversity, career and lifestyle enables us to consistently deliver and exceed clients’ expectations.
+
+Working alongside industry leaders, you will have the opportunity to develop your career working on key projects in an environment which encourages collaboration, knowledge sharing and innovation. To support your professional growth, Jacobs flexible working arrangements, extended leave options and a host of social, health and wellbeing events and initiatives will underpin our commitment to you. At Jacobs it’s all about what you do, not where you are, which counts!
+
+It’s a great time to join Jacobs. Achieve more with a global brand.
+Unlock hiring insights on Jacobs
+3%
+3
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+38%
+have a Bachelor of Technology
+Applicant seniority level
+47%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+Jacobs
+1,825,128 followers
+Follow
+Business Consulting and Services 10,001+ employees 65,325 on LinkedIn
+At Jacobs, we're challenging today to reinvent tomorrow – delivering outcomes and solutions for the world's most complex challenges. With a team of approximately 45,000, we provide end-to-end services in advanced manufacturing, cities & places, energy, environmental, life sciences, transportation and water. From advisory and consulting, feasibility, planning, design, program and lifecycle management, we're creating a more connected and sustainable world.
+…
+show more
+Commitments
+Diversity, equity, and inclusion
+We live inclusion. We put people at the heart of our business. We embrace all perspectives, collaborating to make a positive impact. Through an unparalleled focus on inclusion, with a diverse team of visionaries, thinkers and doers, we build trust — in each other and across our company.
+…
+Show more
+Career growth and learning
+We’re taking on unprecedented challenges. Work and projects are increasingly integrated with a broader global reach than ever before. We plan for today in everything we do while looking at how those decisions impact tomorrow. At Jacobs, there’s no limit to who you can be and what we can achieve. And to make that real, we must each grow and evolve our skills and experiences, take on new endeavors and assignments, and share what we know and experience with others so we’re all able to build on the lessons we’re discovering along the way. Whether rethinking a simple process or solving one of the toughest challenges, our people are our competitive advantage by advancing our thinking, pushing inventive and trailblazing ideas forward and delivering extraordinary solutions for a better tomorrow.
+…
+Show more
+Work-life balance
+A world where you can is only achievable when we’re each functioning at our highest abilities. We can’t be our true selves, get our work done, and develop and grow unless our ideal states of being are sustained. We embed wellbeing into all, so we’re able to deliver on our purpose – today and into the future. We put flexibility first – when setting work hours and scheduling time off. We offer competitive support for parents and caregivers with our personalized paid time off program and flexible working arrangements. We want to ensure that our people have the time they need to refresh and recharge by spending time with the people who matter most while balancing their work.
+…
+Show more
+Environmental sustainability
+We always act with integrity — taking responsibility for our work, caring for our people and staying focused on safety and sustainability. We make investments in our clients, people and communities, so we can grow together.
+…
+Show more
+Social impact
+For us, Challenging today. Reinventing tomorrow means developing long-term business resilience and success, and positively contributing toward the global economy, society and the environment. It is not simply about avoiding harm, but about maximizing impact and stakeholder value, and striving to deliver a positive, fair and inclusive future for all in partnership with our clients. At Jacobs, social value is embedded in PlanBeyond 2.0, our sustainable business approach, so that we focus on integrating social value and equity considerations and innovations into the solutions we deliver for our clients. As a purpose-led company, we know we have a pivotal role to play in creating a fairer society
+…
+Show more
+Learn more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Company photos
+Page 1 of 3
+Previous
+Next
+Show more
+================================================================================
+Index: 24
+Ameriprise Financial Services, LLC
+Share
+Show more options
+Quality Engineer 
+Gurugram, Haryana, India · Reposted 3 months ago · Over 100 people clicked apply
+Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save Quality Engineer  at Ameriprise Financial Services, LLC
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+Develop, verify, and validate UAT test cases/plan for data platforms, interfaces and reporting systems
+Create custom test data, test scripts, and queries to be executed on the database
+Validate end to end functionality and enhancement requests
+Work closely with the Team Lead on implementing more effective testing solutions
+
+Key Responsibilities
+
+Contribute to an agile team by driving user story analysis and feature grooming, designing, and developing thorough test scripts.
+
+Write complex SQL queries against large datasets in AWS
+
+Develop and maintain BDD test scenarios and regression plans
+
+Participate in test development life cycle including requirements analysis and design
+
+Business Intelligence testing involving the validation of DataMart, ODS, Data models and SSRS reports.
+
+Understand data flow and test strategy for ETL, Data warehouse and Business Intelligence testing
+
+ETL testing of mapping, transformations and data pipeline
+
+Write advanced SQL queries for ETL/data warehousing/Business Intelligence testing
+
+Work with the team to continually improve test processes and practices based on inspection/adaption of previous iterations and to ensure adherence to process, tools and metrics standards within the project team
+
+Document test results and defects and support defect triage and resolution.
+
+Required Qualifications
+
+Demonstrated excellent hands-on personal computer and organizational skills, Familiar with advanced features in MS Word, MS PPT Familiar with formulas and complex spreadsheets. Ability to write embedded formulas are essential. Exposure to VBA macro development within MS Excel
+
+An understanding of software QA/ QE methodologies/ tools/ processes. Good experience with Manual Functional testing and Automation scripting.
+
+Experience with defect management applications like, Jira, xRay
+
+Knowledge of DEVOPS, Continuous Integration, Continuous Development Environments
+
+Experience in designing, developing, debugging and executing automation scripts
+
+Must have hands on experience working on or designing test automation frameworks using tools like Alteryx/Selenium/Java/Python
+
+Understanding of SQL and data sets Ability to write SQL queries and understand data retrieval, formatting, and integration. Ability to understand Database architecture concepts.
+
+Familiarity with Back and Middle Office technology.
+
+Solid analytical, quantitative and problem-solving skills, with the ability to interpret data, reach conclusions and take action.
+
+Ability to understand technology as it relates to business and may require product or system certifications.
+
+Ability to communicate technology related information clearly to different audiences and clearly detail implementation processes.
+
+Strong relationship within the department and across business functions.
+
+Bachelor’s degree or equivalent work experience.
+
+1+ years’ experience in the financial services industry
+
+Strong leadership competencies and execution skills by way of cross-collaboration and workflow facilitation with multiple internal business partners.
+
+Must be highly responsive and proactive in a fast-paced changing environment.
+
+Preferred Qualifications
+
+Experience in Functional Testing/Integration Testing/Regression Testing/System Testing/ E2E Testing and Acceptance Testing
+
+Experience On Alteryx Is Preferred.
+
+Strong oral and written communication skills, including presentation skills (MS Visio, MS PowerPoint).
+
+Have experience working on agile and scrum methodology.
+
+About Our Company
+
+Ameriprise India LLP has been providing client based financial solutions to help clients plan and achieve their financial objectives for 125 years. We are a U.S. based financial planning company headquartered in Minneapolis with a global presence. The firm’s focus areas include Asset Management and Advice, Retirement Planning and Insurance Protection. Be part of an inclusive, collaborative culture that rewards you for your contributions and work with other talented individuals who share your passion for doing great work. You’ll also have plenty of opportunities to make your mark at the office and a difference in your community. So if you're talented, driven and want to work for a strong ethical company that cares, take the next step and create a career at Ameriprise India LLP.
+
+Ameriprise India LLP is an equal opportunity employer. We consider all qualified applicants without regard to race, color, religion, sex, genetic information, age, sexual orientation, gender identity, disability, veteran status, marital status, family status or any other basis prohibited by law.
+
+Full-Time/Part-Time
+
+Full time
+
+Timings
+
+(2:00p-10:30p)
+
+India Business Unit
+
+AWMPO AWMP&S President's Office
+
+Job Family Group
+
+Business Support & Operations
+Unlock hiring insights on Ameriprise Financial Services, LLC
+3%
+-3
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+45%
+have a Bachelor of Technology
+Applicant seniority level
+52%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+Ameriprise Financial Services, LLC
+190,958 followers
+Follow
+Financial Services 5,001-10,000 employees 17,461 on LinkedIn
+At Ameriprise Financial, we have been helping people feel more confident about their financial future for 130 years. With extensive investment advice, asset management and insurance capabilities and a nationwide network of approximately 10,000 financial advisors*, we have the strength and expertise to serve the full range of individual and institutional investors' financial needs. 
+
+Ameriprise has corporate locations throughout the U.S. and across the globe, and advisor offices in all 50 states. 
+
+Certain hyperlinks within Ameriprise Financial web sites or social media content may hyperlink to third-party content which we believe to be reliable however, we cannot guarantee its accuracy or completeness. For this reason, we do not endorse any linked third-party content, advertising, advice, opinions, recommendations, or other information; it's merely intended to be provided as a general source of information and is not a solicitation to buy or sell any securities, accounts, or strategies. In addition, any linked third-party content should not be used as the sole basis for any investment decisions, nor should it be construed as a recommendation or advice designed to meet the particular needs of an individual investor. Please seek the advice of a financial advisor regarding your particular financial situation.  
+
+Investment products are not insured by the FDIC, NCUA or any federal agency, are not deposits or obligations of, or guaranteed by any financial institution, and involve investment risks including possible loss of principal and fluctuation in value.
+
+Investment advisory products and services are made available through Ameriprise Financial Services, LLC, a registered investment adviser.   
+
+Securities offered by Ameriprise Financial Services, LLC. Member FINRA and SIPC.
+
+For additional important disclosures on engagement rules, linking to third party content or other risks, please visit: www.ameriprise.com/social 
+
+*Ameriprise Financial Q1 2024 Earnings Release.
+…
+show more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Show more
+================================================================================
+Index: 26
+D. E. Shaw India Private Limited
+Share
+Show more options
+Software Engineer/Senior Member, Tech (Application Engineering)
+Gurugram, Haryana, India · Reposted 1 week ago · Over 100 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save Software Engineer/Senior Member, Tech (Application Engineering) at D. E. Shaw India Private Limited
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+The D. E. Shaw group is a global investment and technology development firm with more than $65 billion in investment capital as of December 1, 2024, and offices in North America, Europe, and Asia. Since our founding in 1988, our firm has earned an international reputation for successful investing based on innovation, careful risk management, and the quality and depth of our staff. We have a significant presence in the world’s capital markets, investing in a wide range of companies and financial instruments in both developed and developing economies.
+
+We are looking for motivated front-end developers with impressive records of academic and/or professional achievement to join our Application Engineering team in the Systems group. The team is pivotal in designing, developing, and maintaining enterprise-scale applications and its surrounding infrastructure. We specialize in web application development, improving end-user productivity and enhancing developer experience. Our expertise spans web and mobile application development, API and library development, infrastructure development, and Automation tooling, such as CI/CD. The role offers the opportunity to be part of an inclusive, collaborative, and engaging working environment.
+
+WHAT YOU'LL DO DAY-TO-DAY:
+
+In this role, you will conceptualize, build, and maintain high-quality web applications. You will collaborate with global counterparts and business stakeholders to meet requirements and work closely with UX designers to ensure seamless integration of design and functionality. You will also be responsible for participating in code reviews to ensure quality, delivering prototypes, reusable and shared UI components, and advanced scripting solutions. You will translate high-fidelity UI/UX designs into functional web pages and troubleshoot and resolve complex technical issues to maintain stability and performance. Additionally, you will have opportunities to stay updated with emerging technologies and industry trends, evaluating their potential for implementation in ongoing projects.
+
+WHO WE’RE LOOKING FOR:
+
+Basic qualifications:
+
+A bachelor’s or master’s degree in computer science or a related technical discipline
+3 to 5 years of relevant experience in maintaining and engineering enterprise-level applications
+Experience and interest in modern web frameworks like ReactJS, responsive web design, and trends in modern web development along with advanced knowledge of HTML5, CSS3, and JavaScript
+Ability and interest to work with a variety of stakeholders to design, develop, and deploy web products
+Interest in principles of modern UI design and a willingness to collaborate, give, and receive feedback on UIs
+Experience in developing web applications using Node.js, Java, or Python
+Understanding of ideal client/server relationships and the infrastructure they run on
+Understanding of software development principles, quantitative abilities, data structures, problem-solving, and robust analytical skills with the ability to work in an agile environment
+Exceptional problem-solving and analytical skills, coupled with a demonstrated passion for technology, an eye for quality, and meticulous attention to detail
+Excellent interpersonal, communication, and organizational skills
+
+Preferred qualifications:
+
+Experience in building native mobile apps
+
+Interested candidates can apply through our website: 
+
+https://www.deshawindia.com/recruit/jobs/Ads/Link/SrMbAppEngMar2025
+
+We encourage candidates with relevant experience looking to restart their careers after a break to apply for this position. Learn about Recommence, our gender-neutral return-to-work initiative.
+
+The Firm offers excellent benefits, a casual, collegial working environment, and an attractive compensation package. For further information about our recruitment process, including how applicant data will be processed, please visit https://www.deshawindia.com/careers
+
+Members of the D. E. Shaw group do not discriminate in employment matters on the basis of sex, race, colour, caste, creed, religion, pregnancy, national origin, age, military service eligibility, veteran status, sexual orientation, marital status, disability, or any other protected class.
+Unlock hiring insights on D. E. Shaw India Private Limited
+11%
+11
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+65%
+have a Bachelor of Technology
+Applicant seniority level
+58%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+D. E. Shaw India Private Limited
+148,294 followers
+Follow
+Financial Services 1,001-5,000 employees 1,350 on LinkedIn
+D. E. Shaw India Private Limited (D. E. Shaw India) is a part of the D. E. Shaw group, a global investment and technology development firm. Established in 1996 as a technological development center, D. E. Shaw India has expanded its business into a broad range of software and financial activities. Its staff collaborates with colleagues around the world not only to build cutting-edge proprietary software systems that form an important part of the D. E. Shaw group’s investment activities but also to provide research and operations support to the firm’s systematic, discretionary, and hybrid strategies.
+
+An entrepreneurial spirit has always been a part of D. E. Shaw India’s culture. When external platforms don’t meet our needs, we build our own. We created one of the first NoSQL databases in our industry, built a powerful data analysis library for Python before pandas existed, and built a modern web engineering framework tailored to the firm’s needs.
+
+This profile and any links posted through this profile (together, the “Content”) are provided for your information only and do not convey investment advice or an offer of any type with respect to any securities or other financial products. The D. E. Shaw group does not endorse any information or beliefs discussed in any links posted through this profile and makes no representation as to the accuracy or adequacy of the Content. The Content has not been updated for any information that may have changed since publication. No assurances can be given that any aims, assumptions, or expectations expressed or implied in the Content were or will be realized, or that the activities described have continued or will continue at all or in the same manner as described.
+…
+show more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Company photos
+Page 1 of 3
+Previous
+Next
+Show more
+================================================================================
+Index: 28
+Morningstar
+Share
+Show more options
+Database Engineer 
+Gurugram, Haryana, India · Reposted 1 day ago · Over 100 people clicked apply
+Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save Database Engineer  at Morningstar
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+Job Title: Database Engineer
+
+Location: Gurugram
+
+Company Overview: Welcome to Morningstar. We’re a people-centric company led by a mission to empower investor success. At Morningstar, your contributions have meaning and can drive change. Across our 12,000 colleagues and 32 offices worldwide, we’ve invested in fostering a community where talented, driven people can grow. Our entrepreneurial spirit and uncompromising ethics guide everything we do. We’re always thinking about the next big thing. It’s how we grew from a startup to a global investment research company in just 40 years. Currently, we are seeking a talented SQL Developer to join our dynamic team and contribute to our ongoing success.
+
+Job Responsibilities:
+
+Design, develop, and maintain database systems to support business applications and data-driven processes.
+Optimize database performance through tuning, indexing, partitioning, and other performance optimization techniques.
+Implement and manage database security measures to safeguard sensitive data and ensure compliance with regulatory requirements.
+Troubleshoot and resolve database issues, including performance bottlenecks, data corruption, and connectivity problems.
+Collaborate with software developers to integrate database functionality into applications and ensure compatibility with existing systems.
+Define and enforce database standards, best practices, and procedures to maintain data integrity and consistency.
+Perform database backups, disaster recovery planning, and testing to ensure business continuity and minimize downtime.
+Provide technical guidance and support to team members, including database administrators, developers, and business analysts.
+Stay current with industry trends, emerging technologies, and best practices in database management and administration.
+
+
+Qualifications:
+
+Bachelor’s degree in computer science, Information Technology, or related field
+2-3 years of experience as a Database Engineer, Database Administrator, or similar role
+Proficiency in SQL programming and database management systems (e.g., MySQL, PostgreSQL, SQL Server).
+Strong analytical and problem-solving skills with a keen attention to detail.
+Excellent communication and collaboration abilities.
+Attention to detail and accuracy.
+Familiarity with Agile development methodologies is preferred.
+
+
+Nice to have: It’s not essential but we would love it if you have.
+
+Experience in any one programming language- .Net, nodejs or Python
+Experience with JIRA tool.
+Office 365 and Agile methodologies is desired.
+
+
+Morningstar is an equal opportunity employer.
+
+If you receive and accept an offer from us, we require that personal and any related investments be disclosed confidentiality to our Compliance team (days vary by region). These investments will be reviewed to ensure they meet Code of Ethics requirements. If any conflicts of interest are identified, then you will be required to liquidate those holdings immediately. In addition, dependent on your department and location of work certain employee accounts must be held with an approved broker (for example all, U.S. employee accounts). If this applies and your account(s) are not with an approved broker, you will be required to move your holdings to an approved broker.
+
+Morningstar’s hybrid work environment gives you the opportunity to work remotely and collaborate in-person each week. While some positions are available as fully remote, we’ve found that we’re at our best when we’re purposely together on a regular basis, typically three days each week. A range of other benefits are also available to enhance flexibility as needs change. No matter where you are, you’ll have tools and resources to engage meaningfully with your global colleagues.
+
+I10_MstarIndiaPvtLtd Morningstar India Private Ltd. (Delhi) Legal Entity
+Unlock hiring insights on Morningstar
+1%
+1
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+45%
+have a Bachelor of Technology
+Applicant seniority level
+71%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+Morningstar
+349,596 followers
+Follow
+Financial Services 10,001+ employees 11,831 on LinkedIn
+Morningstar, Inc. is a leading provider of independent investment insights in North America, Europe, Australia, and Asia. The Company offers an extensive line of products and solutions that serve a wide range of market participants, including individual and institutional investors in public and private capital markets, financial advisors and wealth managers, asset managers, retirement plan providers and sponsors, and issuers of fixed-income securities. Morningstar provides data and research insights on a wide range of investment offerings, including managed investment products, publicly listed companies, private capital markets, debt securities, and real-time global market data. Morningstar also offers investment management services through its investment advisory subsidiaries, with approximately $328 billion in AUMA as of Sept. 30, 2024. The Company operates through wholly-owned subsidiaries in 32 countries.
+…
+show more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Trending employee content
+Page 1 of 4
+Previous
+Next
+Show more
+================================================================================
+Index: 30
+Bain & Company
+Share
+Show more options
+Senior Associate Engineer, Software Engineering 
+Gurugram, Haryana, India · Reposted 1 week ago · Over 100 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save Senior Associate Engineer, Software Engineering  at Bain & Company
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+Company Overview
+Bain & Company is the management consulting firm that the world’s business leaders come to when they want results. Bain advises clients on strategy, operations, information technology, organization, private equity, digital transformation and strategy, and mergers and acquisition, developing practical insights that clients act on and transferring skills that make change stick. The firm aligns its incentives with clients by linking its fees to their results. Bain clients have outperformed the stock market 4 to 1. Founded in 1973, Bain has offices in various countries, and its deep expertise and client roster cross every industry and economic sector.
+
+Position Summary
+Senior associate engineer is an mid - entry-level position and has demonstrated ability to deliver software modules with minimal/ occasional guidance from senior team members. This position works as a member of an Agile/scrum software development team focused exclusively on building and supporting Bain’s most strategic internal software systems. Team members work collaboratively to design, build and implement new features and functionality in their systems aimed at delivering the most value to Bain’s global users and supporting key business initiatives. Systems developed are primarily enterprise-scale browser based or mobile applications developed with current Microsoft development languages and technologies, with a global user base and integration points with one or more other internal Bain systems.
+
+Essential Functions
+Technical Delivery (80%)
+Work with teams developing and updating enterprise applications.
+Work as a member of an agile software development team with full participation in all Agile team events and activities.
+Demonstrate ability to identify all technical steps required to complete a story.
+Demonstrate high-level business and domain knowledge and ability to understand and achieve business outcomes.
+Work in collaboration with other team members on an agile team to analyze user stories and perform task breakdown and complete committed tasks as per sprint schedule.
+Follow the standard application design and architecture to develop his/her features and work with senior team members to ensure non-functional metrics (e.g. scalability, performance) are met.
+Prepare work estimates for committed tasks and components with support from senior team members.
+Write unit test plans for committed components. Execute and confirm successful completion of unit tests as part of the criteria for completion.
+Participate in the testing and implementation of applications releases.
+Provide ongoing support for applications already in use. This includes problem diagnosis and resolution, ad hoc reporting support and database administration.
+Demonstrate ability to acquire new skills e.g., creating automation tests using selenium, creating UX designs, DevOps, performing functional/ load testing etc. through internal/ external trainings to be a T-Shaped team member helping the team in achieving sprint goals.
+Follow Bain development project process and standards in completing committed tasks and modules and contribute to the continual evolution of processes and standards. With guidance, write technical documentation as required.
+Research (10%)
+Contribute to the research and evaluation of new tools and technologies beyond current product requirements that are likely to be used in future initiatives. Help in the presentation of findings and recommendations to the full Software Development team.
+Contribute to evaluating and employing new and/or supplemental technologies necessary to deliver functionality for a given software application.
+Participate in internal skill development by sharing concepts and technologies with the full Software Development team.
+Communication (10%)
+Ability to present the technical findings and recommendations to the Software Development team.
+Clearly communicates impediments to completing a story and ensures clear understanding of definition of ‘done’.
+Provide input during sprint retrospective to improve team experience.
+
+Knowledge, Skills, and Abilities
+Frameworks: .NET & .NET Core
+Languages: C#, T-SQL
+Web frameworks/ Lib: Angular, JavaScript, HTML, CSS, Bootstrap, etc.
+RDBMS: Microsoft SQL Server
+Cloud: Microsoft Azure Services
+Unit testing: XUnit, Jasmine, etc.
+DevOps: GitActions
+Web frameworks/ Lib: React
+Search engine: Elasticsearch, Coveo, etc.
+NoSQL databases: MongoDB, Cosmos, etc.
+Caching: Redis, MemCache
+Preferred skills: Python & GEN AI
+Demonstrated knowledge of agile software development methodologies and processes
+Demonstrated record of strong performance in prior software development positions,
+Strong communication and customer service skills
+Strong analytic and problem-solving skills
+Qualifications
+Bachelor’s or equivalent degree
+1-3 years of experience
+Experience developing enterprise scale applications
+Demonstrated knowledge of agile software development methodologies and processes.
+Demonstrated record of strong performance in prior software development positions.
+Strong communication and customer service skills
+Strong analytic and problem-solving skills
+Unlock hiring insights on Bain & Company
+4%
+4
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+56%
+have a Bachelor of Technology
+Applicant seniority level
+63%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+Bain & Company
+2,326,878 followers
+Follow
+Business Consulting and Services 10,001+ employees 22,290 on LinkedIn
+Bain & Company is a global consultancy that helps the world’s most ambitious change makers define the future.
+
+Across 65 cities in 40 countries, we work alongside our clients as one team with a shared ambition to achieve extraordinary results, outperform the competition, and redefine industries. We complement our tailored, integrated expertise with a vibrant ecosystem of digital innovators to deliver better, faster, and more enduring outcomes. Our 10-year commitment to invest more than $1 billion in pro bono services brings our talent, expertise, and insight to organizations tackling today’s urgent challenges in education, racial equity, social justice, economic development, and the environment. We earned a platinum rating from EcoVadis, the leading platform for environmental, social, and ethical performance ratings for global supply chains, putting us in the top 1% of all companies. Since our founding in 1973, we have measured our success by the success of our clients, and we proudly maintain the highest level of client
+…
+show more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Company photos
+Page 1 of 2
+Previous
+Next
+Show more
+================================================================================
+Index: 32
+PayU
+Share
+Show more options
+Production Support Engineer
+Gurgaon, Haryana, India · 3 months ago · Over 100 people clicked apply
+Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save Production Support Engineer at PayU
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+About PayU
+
+PayU, a leading payment and Fintech company in 50+ high-growth markets throughout Asia, Central and Eastern Europe, Latin America, the Middle East and Africa, part of Prosus group, one of the largest technology investors in the world is redefining the way people buy and sell online for our 300.000 + merchants and millions of consumers.
+
+As a leading online payment service provider, we deploy more than 400 payment methods and PCI-certified platforms to process approximately 6 million payments every single day.
+
+Thinking of becoming a PayUneer and you are curious to know more about us? Read more about the life in PayU here
+
+Qualifications:
+
+Experience working with SQL / MySQL / MONGO or any database and writing simple queries to get Data for debugging issues. 
+Must have hands on experience on L2/L3 support. 
+Knowledge on with any of the languages like JAVA, Python, PHP, Shell Scripting, Node.JS , JavaScript, UNIX/ LINUX etc. 
+Excellent analytical and logical thinking. 
+Quick troubleshooting and diagnosing skills. 
+Problem-solving and debugging skills. 
+Working knowledge of any programming language to DEBUG CODE. 
+Web-application / MOBILE debugging skills
+
+About Us
+
+At PayU, we are a global fintech investor and our vision is to build a world without financial borders where everyone can prosper. We give people in high-growth markets the financial services and products they need to thrive. Our expertise in 18 high-growth markets enables us to extend the reach of financial services. This drives everything we do, from investing in technology entrepreneurs, to offering credit to underserved individuals, to helping merchants buy, sell and operate online. Being part of Prosus, one of the largest technology investors in the world, gives us the presence and expertise to make a real impact. Find out more www.payu.com
+
+Our Commitment To Building A Diverse And Inclusive Workforce
+
+As a global and multi-cultural organization with varied ethnicities thriving across locations, we realize that our responsibility towards fulfilling the D&I commitment is huge. Therefore, we continuously strive to create a diverse, inclusive and safe environment, for all of our people, communities and customers. Our leaders are committed to create an inclusive work culture which enables transparency, flexibility and unbiased attention to each and every PayUneer so they can succeed, irrespective of gender, color or personal faith. An environment where every person feels they belong, that they are listened to, and where they are empowered to speak up. At PayU we have zero tolerance towards any form of prejudice whether a specific race, ethnicity, or of persons with disabilities or the LGBTQ communities.
+Unlock hiring insights on PayU
+5%
+5
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+49%
+have a Bachelor of Technology
+Applicant seniority level
+64%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+PayU
+289,842 followers
+Follow
+Financial Services 1,001-5,000 employees 3,457 on LinkedIn
+Global reach, local expertise: we combine the best of both worlds to reshape the future of payments and fintech to build a world of unlimited possibilities. We successfully bridge the global and local gap by supplying ultimate global payment coverage with extensive local expertise and support.
+
+Our vision is to create a world without financial borders where everyone can prosper. Thus, we strive to shape the payment industry of tomorrow to support global financial inclusion.
+
+As the payments and fintech business of Prosus- a global consumer internet group and one of the largest technology investors in the world- we are a leading online payment service provider operating
+in 50+ high-growth markets, dedicated to creating cutting-edge financial services tailored to the needs of over 450,000 merchants and millions of consumers.
+
+Focused on empowering people through financial services and creating a world without financial borders, we have set out to be one of the most prominent investors in the Fintech space, with investments
+totaling over $1 billion to date.
+
+We deploy more than 400 payment methods and PCI-certified platforms to process approximately 10 million payments daily. As a Fintech innovator, we develop cutting-edge technologies to ensure that merchants benefit from the highest approval rates and can optimally expand their global reach.
+…
+show more
+Show more
+================================================================================
+Index: 34
+NatWest Group
+Share
+Show more options
+Software Engineer 
+Gurugram, Haryana, India · 3 hours ago · 16 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save Software Engineer  at NatWest Group
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+Our people work differently depending on their jobs and needs. From hybrid working to flexible hours, we have plenty of options that help our people to thrive.
+
+This role is based in India and as such all normal working days must be carried out in India.
+
+Job Description
+
+Join us as a Software Engineer
+
+This is an opportunity for a driven Software Engineer to take on an exciting new career challenge
+Day-to-day, you'll build a wide network of stakeholders of varying levels of seniority
+It’s a chance to hone your existing technical skills and advance your career
+We're offering this role at associate level
+
+
+What You'll Do
+
+In your new role, you’ll engineer and maintain innovative, customer centric, high performance, secure and robust solutions.
+
+You’ll be working within a feature team and using your extensive experience to engineer software, scripts and tools that are often complex, as well as liaising with other engineers, architects and business analysts across the platform.
+
+You’ll also be:
+
+Producing complex and critical software rapidly and of high quality which adds value to the business
+Working in permanent teams who are responsible for the full life cycle, from initial development, through enhancement and maintenance to replacement or decommissioning
+Collaborating to optimise our software engineering capability
+Designing, producing, testing and implementing our working code
+Working across the life cycle, from requirements analysis and design, through coding to testing, deployment and operations
+
+
+The Skills You'll Need
+
+You’ll need a background in software engineering, software design, architecture, and an understanding of how your area of expertise supports our customers.
+
+You’ll also need:
+
+At least five years of experience working with development and testing tools, bug tracking tools and wikis
+Experience in ETL and .Net
+Experience of DevOps, Testing and Agile methodology and associated toolsets
+A background in solving highly complex, analytical and numerical problems
+Experience of implementing programming best practice, especially around scalability, automation, virtualisation, optimisation, availability and performance
+
+Unlock hiring insights on NatWest Group
+4%
+4
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+81%
+have a Bachelor's Degree
+Applicant seniority level
+69%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+NatWest Group
+705,919 followers
+Follow
+Banking 10,001+ employees 42,040 on LinkedIn
+We’re a business that understands when our customers and people succeed, our communities succeed, and our economy thrives. As part of our purpose, we’re looking at how we can drive change for our communities in enterprise, learning and climate.
+
+As one of the leading supporters of UK business, we’re prioritising enterprise as a force of change. We’re focusing on the people and communities who have traditionally faced the highest barriers to entry and figuring out ways to remove these.
+
+Learning is also key to our continued growth as a company in an ever changing and increasingly digital world. By setting a dynamic and leading learning culture, our people prosper, and our customers are given the tools to continue to improve their financial capability and confidence.
+
+One of the biggest challenges we all face in our future is climate change. That’s why we’ve put it right at the core of our purpose. We want to champion climate solutions with financing and entrepreneurial support, fully embed climate into our culture and decision making, and be climate positive by 2025.
+
+We’re committed to using our purpose to break down barriers, drive change and ultimately create a great place to work.
+…
+show more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Trending employee content
+Page 1 of 4
+Previous
+Next
+Show more
+================================================================================
+Index: 36
+Siemens Energy
+Share
+Show more options
+Design Engineer Instrumentation & Controls 
+Gurugram, Haryana, India · 2 hours ago · 4 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save Design Engineer Instrumentation & Controls  at Siemens Energy
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+Snapshot of your day.
+
+The Design Engineer I&C is responsible for Design and specify Unit Control Systems and Low Voltage Wiring systems which compliment Rotating Machinery.
+
+How You’ll Make An Impact.
+
+Order related representation of the Instrumentation & Control Engineering. Preparing Instrument datasheets, P&ID´s, Instrument List and wiring Diagrams. This role is responsible for maintaining the data model together with other project members and content provider, mainly System Engineering in COMOS PT.
+Design and specify Unit Control Systems and Low Voltage Wiring systems which compliment Rotating Machinery used in Industrial Applications - namely compression, power generation and Oil-Gas.
+Detailed SCADA/I&C design drawings including control panel layout, I/O termination, control panel power distribution, instrumentation installation, motor control schematics, hardwired backup control circuits, single line diagrams.
+Creation of export files as requested by digitalization specification in different formats, e.g.,ISF, CFIHOS Standards.
+Innovate, creatively apply lessons learned, and implement cost-effective solutions for COMOS PT development, requirements management, that prevent non-conformances during Project Execution.
+
+
+What you Bring!
+
+Bachelor of Engineering Degree in discipline (Instrumentation/Controls/Electronics), Diploma (State-certified technical engineer) with relevant experience shall also be considered.
+Minimum 1 years of experience in Rotating Equipment for Oil & Gas, Petrochemical, and other Process Industry applications, achieved through working on Industrial Applications Products in Controls and Instrumentation Engineering.
+Experience in Electrical Equipment Engineering shall be considered.
+Experience in Services - Installation & Commissioning Engineering shall be considered.
+Application experience with objects-oriented Engineering Software e.g., COMOS PT.
+Know how of standards: API 670 (Machinery Protection System), IEC 60079 (Explosive Atmosphere Standards) ,DIN EN 60617 (Graphic Symbol Standards) .
+Good Analytical & Cross-cultural skill set.
+Proficiency in English Language.
+
+
+Who is Siemens Energy?
+
+At Siemens Energy, we are more than just an energy technology company. We meet the growing energy demand across 90+ countries while ensuring our climate is protected. With more than 92,000 dedicated employees, we not only generate electricity for over 16% of the global community, but we’re also using our technology to help protect people and the environment.
+
+Our distributed team is committed to making balanced, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation.
+
+Our Commitment to Diversity
+
+Lucky for us, we are not all the same. Through diversity, we generate power. We run on inclusion and our combined creative energy is motivated by over 130 nationalities. Siemens Energy celebrates character - no matter what ethnic background, gender, age, religion, identity, or disability. We energize society, all of society, and we do not discriminate based on our differences.
+
+Rewards/Benefits
+
+Employees are eligible for Remote Working arrangements up to 2 days per week.
+All employees are automatically covered under the Medical Insurance. Company paid considerable Family floater cover covering employee, spouse and 2 dependent children up to 25 years of age.
+Siemens Energy provides an option to opt for Meal Card to all its employees which will be as per the terms and conditions prescribed in the company policy. – As a part of CTC, tax saving measure
+Flexi Pay empowers employees with the choice to customize the amount in some of the salary components within a defined range thereby optimizing the tax benefits. Accordingly, each employee is empowered to decide on the best Possible net income out of the same fixed individual base pay on a monthly basis
+
+
+Jobs & Careers: https://www.siemens-energy.com/global/en/company/jobs.html
+
+https://www.siemens-energy.com/employeevideo
+Benefits found in job post
+Medical insurance
+Unlock hiring insights on Siemens Energy
+14%
+14
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+67%
+have a Bachelor's Degree
+Applicant seniority level
+33%
+Senior level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+Siemens Energy
+2,120,698 followers
+Follow
+Renewable Energy Power Generation 10,001+ employees 47,506 on LinkedIn
+Siemens Energy is one of the world’s leading energy technology companies. The company works with its customers and partners on energy systems for the future, thus supporting the transition to a more sustainable world. With its portfolio of products, solutions and services, Siemens Energy covers almost the entire energy value chain – from power generation and transmission to storage. The portfolio includes conventional and renewable energy technology, such as gas and steam turbines, hybrid power plants operated with hydrogen, and power generators and transformers. A majority stake in the wind power subsidiary Siemens Gamesa Renewable Energy (SGRE) makes Siemens Energy a global market leader for renewable energies. An estimated one-sixth of the electricity generated worldwide is based on technologies from Siemens Energy. Siemens Energy employs 100,000 people worldwide in more than 90 countries and generated revenue of around €34.5 billion in fiscal year 2024.
+
+Siemens Energy is a trademark licensed by Siemens AG
+…
+show more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Show more
+================================================================================
+Index: 39
+Baker Hughes
+Share
+Show more options
+Commercial Application Engineer 
+Gurgaon, Haryana, India · Reposted 1 week ago · 87 people clicked apply
+Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save Commercial Application Engineer  at Baker Hughes
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+Meet the hiring team
+Marutisinh R. 
+3rd+
+Sales & Commercial Leader | India / APAC / ME | Digital & AI | Energy Transition | Oil & Gas | Power | MBA - SDA Bocconi | Ex-Siemens, Mitsubishi, Caterpillar
+Message
+About the job
+Commercial Applications Engineer
+
+Do you enjoy building relationships and ensuring customer success?
+
+Are you passionate about joining Industrial Solutions Sales Team?
+
+Join our Baker Hughes Industrial Solutions team
+
+Baker Hughes Industrial Solutions offers a holistic suite of machine condition monitoring and protection hardware, software, and services. We help ensure you achieve the highest level of asset reliability. The Sales team is responsible for shaping new business, maintaining customer relationships and ensuring customer needs are met.
+
+Partner with the best
+
+As Commercial Applications Engineer, you'll be responsible for preparing proposals/bids, contract negotiation and compliance with contract commitments and commercial risk assessment. He /she will develops sales plan for a specific region.
+
+As a Commercial Applications Engineer, you will be responsible for:
+
+
+Handling all techno-commercial aspects of proposal management, including scope development, specification compliance, pricing, issue resolution
+Collaborating with all the supporting functions viz Sales, Solution Architects, Engineering, Execution, Finance, Legal, Sourcing etc., to derive value based proposals
+Developing most suitable techno-commercial solutions to meet Customers’ requirements as well as meet or exceed Organization’s goals 
+Possessing Technical acumen to understand the customer’s requirements and aware about various instrumentations/machines inside a plant.
+Interfacing with the Product and other functional teams to leverage their expertise and create value proposition for customer. 
+Measuring on proposal timelines, proposals $ & volume, handling technical & commercial queries orders, proposal defects, ITO misses in handovers etc
+
+
+Fuel your passion
+
+To be successful in this role you will:
+
+
+Have a Bachelor's degree or equivalent with minimum 6 years of Industrial Experience in Energy Industry, out of which at least 3 years of experience in Engineering, Proposals, Projects or Services role
+Good understanding of Industrial Equipment and/or Plant C&I
+Have Knowledge of HW/SW/Instrumentation solutions for rotating machines.
+Have Basic knowledge of commercial aspects, costing, margins, terms and conditions, negotiation, would be a plus.
+Be Effective team player, Self-starter and high motivation level
+Be Flexible to travel on short notice as per the business needs
+
+
+Work in a way that works for you
+
+We recognize that everyone is different and that the way in which people want to work and deliver at their best is different for everyone too. In this role, we can offer the following flexible working patterns:
+
+
+Please discuss your preferred working arrangements with your recruiter during the process
+
+
+Working with us
+
+Our people are at the heart of what we do at Baker Hughes. We know we are better when all of our people are developed, engaged and able to bring their whole authentic selves to work. We invest in the health and well-being of our workforce, train and reward talent and develop leaders at all levels to bring out the best in each other.
+
+Working for you
+
+Our inventions have revolutionized energy for over a century. But to keep going forward tomorrow, we know we have to push the boundaries today. We prioritize rewarding those who embrace change with a package that reflects how much we value their input. Join us, and you can expect:
+
+
+Contemporary work-life balance policies and wellbeing activities
+Comprehensive private medical care options
+Safety net of life insurance and disability programs
+Tailored financial programs
+Additional elected or voluntary benefits
+
+
+About Us:
+
+We are an energy technology company that provides solutions to energy and industrial customers worldwide. Built on a century of experience and conducting business in over 120 countries, our innovative technologies and services are taking energy forward – making it safer, cleaner and more efficient for people and the planet.
+
+Join Us:
+
+Are you seeking an opportunity to make a real difference in a company that values innovation and progress? Join us and become part of a team of people who will challenge and inspire you! Let’s come together and take energy forward.
+
+Baker Hughes Company is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+
+R147448
+Unlock hiring insights on Baker Hughes
+3%
+3
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+39%
+have a Bachelor of Technology
+Applicant seniority level
+47%
+Entry level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+Baker Hughes
+2,665,902 followers
+Follow
+Energy Technology 10,001+ employees 65,934 on LinkedIn
+Baker Hughes (NASDAQ: BKR) is an energy technology company that provides solutions for energy and industrial customers worldwide. Built on a century of experience and conducting business in over 120 countries, our innovative technologies and services are taking energy forward – making it safer, cleaner and more efficient for people and the planet.
+
+For more than a century, our inventions have revolutionized energy. We harness the power of engineering, data, and science to redefine what's possible. Our diverse portfolio of equipment and service capabilities span the energy and industrial value chain. Our two operating segments, Oilfield Services & Equipment (OFSE) and Industrial & Energy Technology (IET), are organized based on the nature of our markets and customers, and consist of similar products and services. Visit us at bakerhughes.com to learn more.
+…
+show more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Trending employee content
+Page 1 of 4
+Previous
+Next
+Show more
+================================================================================
+Index: 40
+Jacobs
+Share
+Show more options
+Senior Design Engineer - Mechanical 
+Gurgaon, Haryana, India · 6 days ago · 67 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+Hybrid
+Full-time
+Apply
+Save
+Save Senior Design Engineer - Mechanical  at Jacobs
+Update your profile to assess your job match
+Update profile
+Get personalized tips to stand out to hirers
+Find jobs where you’re a top applicant and tailor your resume with the help of AI.
+About the job
+At Jacobs, we're challenging today to reinvent tomorrow by solving the world's most critical problems for thriving cities, resilient environments, mission-critical outcomes, operational advancement, scientific discovery and cutting-edge manufacturing, turning abstract ideas into realities that transform the world for good.
+
+Your impact
+
+Jacobs is a global provider of technical, professional, and scientific services including engineering, architecture, construction, operations, and project management. Our portfolio spans industrial, commercial, and government clients across multiple markets and geographies. We have a PAN-India presence; with five world-class engineering delivery centres in Mumbai, Gurgaon, Hyderabad, Ahmedabad, Bangalore & Kolkata.
+
+Job Requirement
+
+Familiar with working to design national and international codes and industry standards appropriate for Water and Wastewater industry.
+Experience of working on Middle East projects is a preferred.
+Design and Detail Engineering of Industrial Water Piping Systems with exposure to various codes and standards like IS, AWWA, IWWA, ASME, ANSI, BS, HIS, CPHEEO Manual, ISO, DIN etc.
+Preparation and Checking of Piping Layouts and utility systems for Water Treatment Plants (WTP) comprising of Primary Treatment System, Secondary Treatment System and Tertiary Treatment System which includes UF, MF, RO etc.
+Design, preparation and checking of piping layout for water plant projects / desalination / ETP projects with expertise knowledge on piping design of RO-DM package / ZLD package / CPU area package systems/Skid & frontal piping. Design, preparation and checking of Mechanical GA of Chemical House, UF-RO building, centrifuge building, RCC & structural tank, Pressure Vessel.
+Mechanical design of Pumping stations like Raw water Intake systems, Clear water Pumphouse in WTP, Wastewater and Treater water Pumping station for STP as per CPHEEO Guideline / Hydraulic Institute(ANSI std.).
+A sound understanding of mechanical engineering principles and their application in Water, Wastewater treatment plant processes and pumping stations.
+Experience in the production of design documentations including optioneering reports and specifications of mechanical equipment.
+Experience in producing design calculations of mechanical equipment for Water and Wastewater treatment plants.
+Ability to produce hydraulic calculations for mechanical equipment, equipment datasheets/specifications and schedules.
+Pipe sizing calculations, pump sizing calculations, wet well/reservoir sizing calculations.
+General Arrangement drawings for piping and mechanical equipment. Isometric drawings. P&IDs, PFDs etc.
+Software- AutoCAD working knowledge is essential and AutoCAD, Revit/ Plant 3D would be an added advantage. Should have working knowledge of 3D Models etc. such as Navis works.
+Should have experience on Plant Hydraulics (Software’s like Fathom, Water Gems and Surge Software’s like Water Hammer, SAP etc.
+Should have Good Communication Skills & should be proficient in English language.
+
+
+Responsibilities
+
+Technically competent and ability to use engineering judgement independently to determine solutions
+Prepare Technical Reports and contractual documents of acceptable technical and presentational quality with minimum guidance.
+Apply new ideas/digital idea to improve solutions and processes to improve efficiency.
+Receive on the job technical training through performing tasks with minimum supervision.
+Good knowledge of work procedures and ensure work adheres to procedures.
+Responsible for completion of specifically assigned tasks to time and cost.
+Able to work as reliable and pro-active member of the team, able to apply knowledge gained.
+Able to work on several projects, and to communicate clearly with a range of people, including making presentations. Flexible and enthusiastic; team player.
+Conversant with MS Office tools.
+Supporting and mentoring, with the possibility of formal line management responsibilities.
+Working within the company's quality-assured delivery processes and delivering output to the required level of quality.
+
+
+We value collaboration and believe that in-person interactions are crucial for both our culture and client delivery. We empower employees with our hybrid working policy, allowing them to split their work week between Jacobs offices/projects and remote locations enabling them to deliver their best work.
+
+Here's what you'll need
+
+Minimum Requirements
+
+Minimum Bachelor's or Post Graduate degree in mechanical engineering from a reputed university / institute.
+Should have minimum 7 Years of experience in design for Consultancy or EPC Water Sector Industry.
+Software- AutoCAD working knowledge is essential and AutoCAD, Revit/ Plant 3D would be an added advantage. Should have working knowledge of 3D Models etc. such as Navis works.
+Experience of working on Middle East projects is a preferred.
+
+
+Why Jacobs 
+
+At Jacobs we value people. Having the right balance of diversity, career and lifestyle enables us to consistently deliver and exceed clients’ expectations.
+
+Working alongside industry leaders, you will have the opportunity to develop your career working on key projects in an environment which encourages collaboration, knowledge sharing and innovation. To support your professional growth, Jacobs flexible working arrangements, extended leave options and a host of social, health and wellbeing events and initiatives will underpin our commitment to you. At Jacobs it’s all about what you do, not where you are, which counts!
+
+It’s a great time to join Jacobs. Achieve more with a global brand.
+Unlock hiring insights on Jacobs
+3%
+3
+Employee growth
+Chart
+May 2024
+Nov 2024
+May 2025
+End of interactive chart.
+Applicant education level
+40%
+have a Bachelor of Technology
+Applicant seniority level
+48%
+Senior level applicants
+1-month free with 24/7 support. Cancel anytime. We’ll remind you 7 days before your trial ends.
+About the company
+Jacobs
+1,825,128 followers
+Follow
+Business Consulting and Services 10,001+ employees 65,325 on LinkedIn
+At Jacobs, we're challenging today to reinvent tomorrow – delivering outcomes and solutions for the world's most complex challenges. With a team of approximately 45,000, we provide end-to-end services in advanced manufacturing, cities & places, energy, environmental, life sciences, transportation and water. From advisory and consulting, feasibility, planning, design, program and lifecycle management, we're creating a more connected and sustainable world.
+…
+show more
+Commitments
+Diversity, equity, and inclusion
+We live inclusion. We put people at the heart of our business. We embrace all perspectives, collaborating to make a positive impact. Through an unparalleled focus on inclusion, with a diverse team of visionaries, thinkers and doers, we build trust — in each other and across our company.
+…
+Show more
+Career growth and learning
+We’re taking on unprecedented challenges. Work and projects are increasingly integrated with a broader global reach than ever before. We plan for today in everything we do while looking at how those decisions impact tomorrow. At Jacobs, there’s no limit to who you can be and what we can achieve. And to make that real, we must each grow and evolve our skills and experiences, take on new endeavors and assignments, and share what we know and experience with others so we’re all able to build on the lessons we’re discovering along the way. Whether rethinking a simple process or solving one of the toughest challenges, our people are our competitive advantage by advancing our thinking, pushing inventive and trailblazing ideas forward and delivering extraordinary solutions for a better tomorrow.
+…
+Show more
+Work-life balance
+A world where you can is only achievable when we’re each functioning at our highest abilities. We can’t be our true selves, get our work done, and develop and grow unless our ideal states of being are sustained. We embed wellbeing into all, so we’re able to deliver on our purpose – today and into the future. We put flexibility first – when setting work hours and scheduling time off. We offer competitive support for parents and caregivers with our personalized paid time off program and flexible working arrangements. We want to ensure that our people have the time they need to refresh and recharge by spending time with the people who matter most while balancing their work.
+…
+Show more
+Environmental sustainability
+We always act with integrity — taking responsibility for our work, caring for our people and staying focused on safety and sustainability. We make investments in our clients, people and communities, so we can grow together.
+…
+Show more
+Social impact
+For us, Challenging today. Reinventing tomorrow means developing long-term business resilience and success, and positively contributing toward the global economy, society and the environment. It is not simply about avoiding harm, but about maximizing impact and stakeholder value, and striving to deliver a positive, fair and inclusive future for all in partnership with our clients. At Jacobs, social value is embedded in PlanBeyond 2.0, our sustainable business approach, so that we focus on integrating social value and equity considerations and innovations into the solutions we deliver for our clients. As a purpose-led company, we know we have a pivotal role to play in creating a fairer society
+…
+Show more
+Learn more
+Interested in working with us in the future?
+Members who share that they’re interested in a company may be 2x as likely to get a message from a recruiter than those who don’t. Learn more
+Learn more about Interested in working for our company
+I’m interested
+Company photos
+Page 1 of 3
+Previous
+Next
+Show more
+================================================================================
