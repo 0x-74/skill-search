@@ -9,7 +9,7 @@ import time
 load_dotenv()
 
 # Initialize the language model
-lm = dspy.LM('ollama_chat/gemma:27b-it-qat', api_base='http://localhost:11434', api_key='')
+lm = dspy.LM('ollama_chat/gemma3:27b-it-qat', api_base='http://localhost:11435', api_key='',model_type="chat")
 dspy.configure(lm=lm)
 dspy.context(experimental=True)
 
@@ -50,11 +50,11 @@ with open('jobs.txt', 'r', encoding='utf-8') as file:
 csv_file = 'structured_jobs_data.csv'
 header_written = False
 
-for idx, job_data in enumerate(jobs):
+for idx, job_data in enumerate(jobs[306:]):
     try:
         data = job_parser(job_text=job_data)
         row_df = pd.DataFrame([data.toDict()])
-
+        print(f'processed job {idx}')
         # Append to CSV, write header only on first write
         row_df.to_csv(csv_file, mode='a', index=False, header=not header_written)
         header_written = True
@@ -66,5 +66,3 @@ for idx, job_data in enumerate(jobs):
             f_fail.write(job_data.strip())
             f_fail.write('\n' + '=' * 80 + '\n')
         continue
-
-    time.sleep(60)
