@@ -69,7 +69,7 @@ if __name__ == "__main__":
     options = Options()
     options.add_argument("--headless")
     options.add_argument('--disable-gpu')
-    driver = webdriver.Firefox(options=options, service=service)
+    driver = webdriver.Firefox(options=options, )
                         
     email = os.getenv('EMAIL')
     password = os.getenv('PASSWORD')

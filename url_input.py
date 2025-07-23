@@ -31,7 +31,7 @@ def show_url_input_page():
                                 options = Options()
                                 options.add_argument("--headless")
                                 options.add_argument('--disable-gpu')
-                                st.session_state.driver = webdriver.Firefox(options=options, service=service)
+                                st.session_state.driver = webdriver.Firefox(options=options, )
                         
                         with st.spinner("Loading LinkedIn page..."):
                             st.session_state.driver.get(url)
