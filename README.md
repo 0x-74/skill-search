@@ -1,25 +1,19 @@
-# Stage 2
-## pandas-ai based chatbot to query jobs data for Delhi and Gurgaon
+# Stage 3: Complete Visualization Suite with Scraping Capabilities
 
-### Description
-This stage develops a chatbot using `pandas-ai` that allows users to query job data specifically for Delhi and Gurgaon. The chatbot helps users explore and analyze job listings across various sectors, companies, and roles available in these two major cities.
+## Description
+Stage 3 transforms the application into a **fully interactive Streamlit-based platform** that can:
+- **Scrape job data** from selected sources (e.g., LinkedIn, Naukri, or Indeed).
+- **Parse and clean** the scraped data into structured formats (lists of dictionaries).
+- **Visualize job analytics** using an interactive dashboard built entirely in Streamlit 
+---
 
-### Features
-- **Natural Language Querying**: Users can ask questions in everyday language, and the chatbot interprets these queries into pandas DataFrame operations.
-- **Job-Specific Queries**: The chatbot focuses on job data in Delhi and Gurgaon, enabling users to:
-  - Find specific jobs by title, sector, or company
-  - Filter jobs based on salary ranges, experience, and job type (full-time, part-time, remote, etc.)
-  - Analyze job trends, such as the most common job titles, sectors with the most openings, or top hiring companies
-- **Context-Aware**: The chatbot understands that queries should only relate to jobs in Delhi and Gurgaon.
-
-### Example Queries
-- *"List all software engineering jobs in Delhi with a salary above 10 LPA."*
-- *"Show the top 5 companies hiring in Gurgaon for data analysts."*
-- *"Find remote jobs in Delhi for freshers in the marketing field."*
-- *"What are the average salaries for backend developers in Gurgaon?"*
-
-### Next Steps
-- **Improve Query Understanding**: Handle more complex multi-condition queries like filtering by multiple job attributes.
-- **Add Visualization Support**: Allow the chatbot to display charts (e.g., pie charts for sector distribution, bar graphs for salary ranges).
-- **Expand Dataset**: Incorporate additional data sources, such as company reviews and employee ratings.
-
+## Features
+- **One-Click Scraping**: Built-in scraping tool to fetch job data directly from within the app.
+- **Data Parsing**: Automatically converts raw scraped data into a clean, structured format.
+- **Interactive Visualizations**:
+  - Job distribution by title, sector, or company
+  - Salary range analysis
+  - Experience-level histograms
+  - Location-based job trends
+- **Upload & Preview**: Users can upload job files (CSV or JSON) and instantly preview and visualize them.
+- **Lightweight & Real-Time**: Everything runs in Streamlit with minimal overhead 

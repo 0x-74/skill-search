@@ -5,12 +5,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from dotenv import load_dotenv
-from login import login  # Assuming you have login.py
+import login 
 
 load_dotenv()
 
 def get_job_cards(driver):
-    wait = WebDriverWait(driver, 10)
+    wait = WebDriverWait(driver, 30)
     time.sleep(3)
     scrollable_element = driver.execute_script('''
             function isVerticallyScrollable(element) {

@@ -9,7 +9,7 @@ import time
 load_dotenv()
 
 # Initialize the language model
-lm = dspy.LM('ollama_chat/gemma3:27b-it-qat', api_base='http://localhost:11435', api_key='',model_type="chat")
+lm = dspy.LM('ollama_chat/gemma3:27b-it-qat', api_base='http://localhost:11434', api_key='',model_type="chat")
 dspy.configure(lm=lm)
 dspy.context(experimental=True)
 

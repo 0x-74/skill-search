@@ -17,7 +17,7 @@ def page_has_loaded(driver):
     page_state = driver.execute_script('return document.readyState;')
     return page_state == 'complete'
 
-def login(driver, email=None, password=None, cookie = None, timeout=10):
+def login(driver, email=None, password=None, cookie = None, timeout=60):
     if cookie is not None:
         return _login_with_cookie(driver, cookie)
   
@@ -25,7 +25,7 @@ def login(driver, email=None, password=None, cookie = None, timeout=10):
         email, password = __prompt_email_password()
   
     driver.get("https://www.linkedin.com/login")
-    element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "username")))
+    element = WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.ID, "username")))
   
     email_elem = driver.find_element(By.ID,"username")
     email_elem.send_keys(email)
