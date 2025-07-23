@@ -27,6 +27,7 @@ def show_url_input_page():
                             with st.spinner("Initializing browser..."):
                                 options = webdriver.FirefoxOptions()
                                 options.add_argument("--headless")
+                                options.add_argument('--disable-gpu')
                                 options.add_argument("--window-size=1920,1080")
                                 st.session_state.driver = webdriver.Firefox(options)
                         

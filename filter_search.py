@@ -1,7 +1,6 @@
 import streamlit as st
 import urllib.parse
 from selenium import webdriver
-
 def show_filter_search_page():
     st.subheader("🎯 Job Search Builder")
     
@@ -92,6 +91,7 @@ def show_filter_search_page():
                     if st.session_state.driver is None:
                         with st.spinner("Initializing browser..."):
                             options = webdriver.FirefoxOptions()
+                            options.add_argument('--disable-gpu')
                             options.add_argument("--headless")
                             options.add_argument("--window-size=1920,1080")
                             st.session_state.driver = webdriver.Firefox(options)
