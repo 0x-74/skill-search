@@ -1,6 +1,7 @@
 import streamlit as st
 import re
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 JOB_SEARCH_RE = re.compile(
     r"^https:\/\/(?:www\.)?linkedin\.com\/jobs\/search\/?(?:\?.*)?$"
@@ -25,7 +26,7 @@ def show_url_input_page():
                     try:
                         if st.session_state.driver is None:
                             with st.spinner("Initializing browser..."):
-                                service = ChromeDriverManager().install()
+                                service = Service(ChromeDriverManager().install())
                                 options = webdriver.ChromeOptions()
                                 options.add_argument("--headless")
                                 options.add_argument('--disable-gpu')

@@ -1,6 +1,7 @@
 import streamlit as st
 import urllib.parse
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 def show_filter_search_page():
     st.subheader("🎯 Job Search Builder")
@@ -91,7 +92,7 @@ def show_filter_search_page():
                 try:
                     if st.session_state.driver is None:
                         with st.spinner("Initializing browser..."):
-                            service = webdriver.Chrome(service=ChromeDriverManager().install())
+                            service = Service(ChromeDriverManager().install())
                             options = webdriver.ChromeOptions()
                             options.add_argument('--disable-gpu')
                             options.add_argument("--headless")
