@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from dotenv import load_dotenv
 import login 
-
+from webdriver_manager.chrome import ChromeDriverManager
 load_dotenv()
 
 def get_job_cards(driver):
@@ -62,10 +62,11 @@ def click_next_page(driver):
         return True
 
 if __name__ == "__main__":
+    service = ChromeDriverManager().install()
     options = webdriver.ChromeOptions()
     options.add_argument("--headless")
     options.add_argument('--disable-gpu')
-    driver = webdriver.Chrome(options)
+    driver = webdriver.Chrome(options=options, service=service)
                         
     email = os.getenv('EMAIL')
     password = os.getenv('PASSWORD')
