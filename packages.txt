@@ -1,4 +1,3 @@
-google-chrome-stable
 chromium-driver
 libglib2.0-0
 libnss3
