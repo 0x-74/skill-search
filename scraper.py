@@ -26,6 +26,7 @@ def run_scraper():
             # Get credentials
             st.session_state.mail = st.session_state.mail or os.getenv('EMAIL')
             st.session_state.password = st.session_state.password or os.getenv('PASSWORD')
+            st.session_state.cookie = st.session_state.cookie or os.getenv('COOKIE')
             
             if not st.session_state.mail or not st.session_state.password:
                 st.session_state.show_email_pass_dialog = True
@@ -58,15 +59,15 @@ def show_filename_dialog():
 def show_credentials_dialog():
     st.markdown("---")
     st.subheader("🔐 LinkedIn Credentials")
-    st.write("Enter your LinkedIn credentials to access job listings:")
-    
+    st.write("Enter your LinkedIn email and password. Optionally, add a `li_at` cookie to skip security challenges:")
+
     st.session_state.mail = st.text_input(
         "📧 Email",
         value=st.session_state.mail or "",
         placeholder="your-email@example.com",
         key="email_input"
     )
-    
+
     st.session_state.password = st.text_input(
         "🔒 Password",
         type="password",
@@ -74,15 +75,28 @@ def show_credentials_dialog():
         placeholder="Your LinkedIn password",
         key="password_input"
     )
-    
-    st.info("💡 Your credentials are only used for this session and are not stored.")
-    
+
+    st.session_state.cookie = st.text_area(
+        "🍪 Optional `li_at` Cookie",
+        value=st.session_state.cookie or "",
+        placeholder="Paste your li_at cookie here (optional)...",
+        key="cookie_input",
+        height=70
+    )
+
+    st.info(
+        "💡 *Tip:* Adding a `li_at` cookie skips OTP/security challenges. "
+        "You can find it under Chrome → DevTools → Application → Cookies → `www.linkedin.com` → `li_at`."
+    )
+
     if st.button("🚀 Start Scraping", type="primary", use_container_width=True):
         if st.session_state.mail and st.session_state.password:
             st.session_state.show_email_pass_dialog = False
             st.rerun()
         else:
-            st.error("Please provide both email and password")
+            st.error("Please provide both email and password.")
+
+
 
 def show_scraping_interface():
     # Live scraping section
@@ -151,10 +165,15 @@ def execute_scraping_process(jobs_placeholder, page_placeholder, progress_bar, l
         # Login
         st.session_state.scraping_progress.append("🔐 Logging into LinkedIn...")
         update_log_display(log_placeholder)
-        
-        login(st.session_state.driver, st.session_state.mail, st.session_state.password)
-        st.session_state.scraping_progress.append("✅ Successfully logged in")
-        update_log_display(log_placeholder)
+        if st.session_state.cookie:
+            st.session_state.scraping_progress.append("🔐 Logging in with cookie...")
+            login(st.session_state.driver, st.session_state.mail, st.session_state.password, st.session_state.cookie)
+            st.session_state.scraping_progress.append("✅ Logged in using cookie.")
+        else:
+            st.session_state.scraping_progress.append("🔐 Logging in with email/password...")
+            login(st.session_state.driver, st.session_state.mail, st.session_state.password)
+            st.session_state.scraping_progress.append("✅ Logged in successfully.")
+
         
         # Navigate to search results
         st.session_state.driver.get(st.session_state.current_url)

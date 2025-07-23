@@ -16,6 +16,7 @@ def initialize_session_state():
         "show_email_pass_dialog": False,
         "mail": None,
         "password": None,
+        "cookie": None,
         "scraping_progress": [],
         "is_scraping": False,
         "total_jobs_scraped": 0,
