@@ -62,10 +62,10 @@ def click_next_page(driver):
         return True
 
 if __name__ == "__main__":
-    options = webdriver.ChromeOptions()
+    options = webdriver.FirefoxOptions()
     options.add_argument("--headless")
     options.add_argument("--window-size=1920,1080")
-    driver = webdriver.Chrome(options)
+    driver = webdriver.Firefox(options)
                         
     email = os.getenv('EMAIL')
     password = os.getenv('PASSWORD')

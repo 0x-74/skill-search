@@ -91,10 +91,10 @@ def show_filter_search_page():
                 try:
                     if st.session_state.driver is None:
                         with st.spinner("Initializing browser..."):
-                            options = webdriver.ChromeOptions()
+                            options = webdriver.FirefoxOptions()
                             options.add_argument("--headless")
                             options.add_argument("--window-size=1920,1080")
-                            st.session_state.driver = webdriver.Chrome(options)
+                            st.session_state.driver = webdriver.Firefox(options)
                     
                     with st.spinner("Loading LinkedIn page..."):
                         st.session_state.driver.get(url)
