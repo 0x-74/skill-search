@@ -1,8 +1,8 @@
 import streamlit as st
 import re
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.firefox.service import Service
+from webdriver_manager.firefox import GeckoDriverManager
 JOB_SEARCH_RE = re.compile(
     r"^https:\/\/(?:www\.)?linkedin\.com\/jobs\/search\/?(?:\?.*)?$"
 )
@@ -26,11 +26,11 @@ def show_url_input_page():
                     try:
                         if st.session_state.driver is None:
                             with st.spinner("Initializing browser..."):
-                                service = Service(ChromeDriverManager().install())
-                                options = webdriver.ChromeOptions()
+                                service = Service(GeckoDriverManager().install())
+                                options = webdriver.FirefoxOptions()
                                 options.add_argument("--headless")
                                 options.add_argument('--disable-gpu')
-                                st.session_state.driver = webdriver.Chrome(options=options, service=service)
+                                st.session_state.driver = webdriver.Firefox(options=options, service=service)
                         
                         with st.spinner("Loading LinkedIn page..."):
                             st.session_state.driver.get(url)
