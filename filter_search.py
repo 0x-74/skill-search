@@ -3,6 +3,7 @@ import urllib.parse
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
 from webdriver_manager.firefox import GeckoDriverManager
+from selenium.webdriver.firefox.options import Options
 def show_filter_search_page():
     st.subheader("🎯 Job Search Builder")
     
@@ -93,10 +94,10 @@ def show_filter_search_page():
                     if st.session_state.driver is None:
                         with st.spinner("Initializing browser..."):
                             service = Service(GeckoDriverManager().install())
-                            options = webdriver.FirefoxOptions()
+                            options = Options()
                             options.add_argument('--disable-gpu')
                             options.add_argument("--headless")
-                            st.session_state.driver = webdriver.FirefoxOptions(options=options, service=service)
+                            st.session_state.driver = webdriver.Firefox(options=options, service=service)
                     
                     with st.spinner("Loading LinkedIn page..."):
                         st.session_state.driver.get(url)

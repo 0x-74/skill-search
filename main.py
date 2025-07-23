@@ -8,6 +8,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from dotenv import load_dotenv
 import login 
 from webdriver_manager.firefox import GeckoDriverManager
+from selenium.webdriver.firefox.options import Options
+
 load_dotenv()
 
 def get_job_cards(driver):
@@ -64,7 +66,7 @@ def click_next_page(driver):
 
 if __name__ == "__main__":
     service = Service(GeckoDriverManager().install())
-    options = webdriver.FirefoxOptions()
+    options = Options()
     options.add_argument("--headless")
     options.add_argument('--disable-gpu')
     driver = webdriver.Firefox(options=options, service=service)

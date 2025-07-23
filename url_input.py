@@ -2,6 +2,7 @@ import streamlit as st
 import re
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
+from selenium.webdriver.firefox.options import Options
 from webdriver_manager.firefox import GeckoDriverManager
 JOB_SEARCH_RE = re.compile(
     r"^https:\/\/(?:www\.)?linkedin\.com\/jobs\/search\/?(?:\?.*)?$"
@@ -27,7 +28,7 @@ def show_url_input_page():
                         if st.session_state.driver is None:
                             with st.spinner("Initializing browser..."):
                                 service = Service(GeckoDriverManager().install())
-                                options = webdriver.FirefoxOptions()
+                                options = Options()
                                 options.add_argument("--headless")
                                 options.add_argument('--disable-gpu')
                                 st.session_state.driver = webdriver.Firefox(options=options, service=service)
