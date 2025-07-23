@@ -4,10 +4,12 @@ import getpass
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-
+import re
+import streamlit as st
+challenge_re = re.compile(r'https:\/\/www\.linkedin\.com\/checkpoint\/challenge\/[A-Za-z0-9]+')
 VERIFY_LOGIN_ID = "global-nav__primary-link"
 REMEMBER_PROMPT = 'remember-me-prompt__form-primary'
-
+CHALLENGE = 'input__email_verification_pin'
 def __prompt_email_password():
   u = input("Email: ")
   p = getpass.getpass(prompt="Password: ")
@@ -40,6 +42,12 @@ def login(driver, email=None, password=None, cookie = None, timeout=60):
             remember.submit()
   
     element = WebDriverWait(driver, timeout).until(EC.presence_of_element_located((By.CLASS_NAME, VERIFY_LOGIN_ID)))
+
+    if challenge_re.match(driver.current_url):
+        otp = driver.find_element(By.ID, CHALLENGE)
+        if otp:
+            st.text_input = st.text_input("Enter the OTP sent to your email", key="otp_input")
+            otp.send_keys(st.session_state.otp_input)
   
 def _login_with_cookie(driver, cookie):
     driver.get("https://www.linkedin.com/login")
