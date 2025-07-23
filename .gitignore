@@ -6,3 +6,4 @@ cache
 *.txt
 lib
 *.html
+!packages.txt
