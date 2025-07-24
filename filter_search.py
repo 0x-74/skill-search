@@ -101,7 +101,6 @@ def show_filter_search_page():
                             options.add_argument("--disable-extensions")
                             options.add_argument('--no-sandbox')
                             options.add_argument('--disable-application-cache')
-                            options.add_argument('--disable-gpu')
                             options.add_argument("--disable-dev-shm-usage")
                             st.session_state.driver = webdriver.Firefox(options=options)
                     
