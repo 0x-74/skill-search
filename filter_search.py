@@ -1,6 +1,8 @@
 import streamlit as st
 import urllib.parse
 from selenium import webdriver
+from selenium.webdriver.firefox.service import Service
+from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.firefox.options import Options
 def show_filter_search_page():
     st.subheader("🎯 Job Search Builder")
@@ -102,6 +104,7 @@ def show_filter_search_page():
                             options.add_argument('--no-sandbox')
                             options.add_argument('--disable-application-cache')
                             options.add_argument("--disable-dev-shm-usage")
+                            service = Service(GeckoDriverManager().install())
                             st.session_state.driver = webdriver.Firefox(options=options)
                     
                     with st.spinner("Loading LinkedIn page..."):
