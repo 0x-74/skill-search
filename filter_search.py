@@ -92,6 +92,8 @@ def show_filter_search_page():
                     if st.session_state.driver is None:
                         with st.spinner("Initializing browser..."):
                             options = Options()
+                            options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
+                            options.add_argument("--disable-blink-features=AutomationControlled")
                             options.add_argument('--disable-gpu')
                             options.add_argument("--headless")
                             options.add_argument("start-maximized")
@@ -101,7 +103,7 @@ def show_filter_search_page():
                             options.add_argument('--disable-application-cache')
                             options.add_argument('--disable-gpu')
                             options.add_argument("--disable-dev-shm-usage")
-                            st.session_state.driver = webdriver.Firefox(options=options, )
+                            st.session_state.driver = webdriver.Firefox(options=options)
                     
                     with st.spinner("Loading LinkedIn page..."):
                         st.session_state.driver.get(url)

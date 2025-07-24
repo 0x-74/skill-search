@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 import re
 import streamlit as st
+import time
 challenge_re = re.compile(r'https:\/\/www\.linkedin\.com\/checkpoint\/challenge\/[A-Za-z0-9]+')
 VERIFY_LOGIN_ID = "global-nav__primary-link"
 REMEMBER_PROMPT = 'remember-me-prompt__form-primary'
@@ -49,9 +50,21 @@ def login(driver, email=None, password=None, cookie = None, timeout=60):
             st.text_input = st.text_input("Enter the OTP sent to your email", key="otp_input")
             otp.send_keys(st.session_state.otp_input)
   
-def _login_with_cookie(driver, cookie):
-    driver.get("https://www.linkedin.com/login")
+def _login_with_cookie(driver, cookie, timeout=60):
+    # Clear existing cookies and start fresh
+    driver.get("https://www.linkedin.com")
+    driver.delete_all_cookies()
+    
+    # Add the new cookie with proper domain
     driver.add_cookie({
-      "name": "li_at",
-      "value": cookie
+        "name": "li_at",
+        "value": cookie,
+        "domain": ".linkedin.com",
+        "path": "/",
+        "secure": True,
+        "httpOnly": True,
+        "sameSite": "Lax"
     })
+    
+    # Navigate to home page after setting cookies
+    driver.get("https://www.linkedin.com/feed/")
