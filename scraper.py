@@ -173,7 +173,7 @@ def execute_scraping_process(jobs_placeholder, page_placeholder, progress_bar, l
             st.session_state.scraping_progress.append("🔐 Logging in with email/password...")
             login(st.session_state.driver, st.session_state.mail, st.session_state.password)
             st.session_state.scraping_progress.append("✅ Logged in successfully.")
-
+        time.sleep(5)
         
         # Navigate to search results
         st.session_state.driver.get(st.session_state.current_url)
